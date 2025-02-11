@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Mechanics, Zhejiang University, 2024.09--Present
+  * Advisor: Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83)
+* B.E. in Mechanics, Zhejiang University, 2020.09--2024.06
 
 Work experience
 ======
@@ -31,15 +31,6 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
