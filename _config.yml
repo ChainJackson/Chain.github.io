@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Lizichen Chen"
+title                    : "Lizichen Chen (陈李子晨)"
 title_separator          : "-"
 name                     : &name "Lizichen Chen"
 description              : &description ""
