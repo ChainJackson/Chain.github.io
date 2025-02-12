@@ -14,17 +14,14 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Address
 ======
 Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.cn/english/2023/0509/c75921a2754909/page.psp)
+
 [Teaching Building 14]((https://www.zju.edu.cn/_upload/tpl/03/6a/874/template874/images/Yuquan.pdf)) (or 外经贸楼 in Chinese)
+
 38# Zheda Road, Xihu District, Hangzhou, Zhejiang, P.R. China 310027
 
-Getting started
+Email
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+lzcchen[a]zju.edu.cn
 
 Site-wide configuration
 ------
