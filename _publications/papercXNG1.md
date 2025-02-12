@@ -24,7 +24,7 @@ T gondii IgG (OR =24.00). Type-I BD owned a decreased positive rate of rubella I
 positive rate of CMV IgG (OR =2.12) compared to type-II BD, while BD with early onset showed contrast results 
 compared to BD without early onset (Rubella IgG, OR =2.54; CMV IgG, OR =0.26). BD with psychotic symptom 
 history displayed a lower positive rate of rubella IgG (OR =0.50). <br>
-**Limitations**: Absence of male evidence and control of socioeconomic status and environmental exposure. 
+**Limitations**: Absence of male evidence and control of socioeconomic status and environmental exposure. <br> 
 **Conclusions**: Differential antibody seropositive rates of T gondii, rubella, and cytomegalovirus in BD were 
 observed.
 ## Keywards
