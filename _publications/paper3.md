@@ -28,5 +28,5 @@ here would work as an effective theoretical basis for subsequent development of 
 HTT techniques. 
 
 ## Keywords
-Symplectic framework; Contact analysis; Functionally graded material; Horizontal 
+symplectic framework; contact analysis; functionally graded material; horizontal 
 exponential gradient; Hamiltonian mixed energy variational principle  
