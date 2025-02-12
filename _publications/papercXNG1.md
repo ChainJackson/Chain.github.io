@@ -8,7 +8,7 @@ date: 2024-06-04
 venue: 'Journal of Affective Disorders'
 slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'X.N. Guo, Y.Q. Chen, H.M. Huang, Y.F. Liu, L.Z. Kong, **<u>L.Z.C. Chen</u>**, H.L. Lyu, T.S. Gao, J.B. Lai, D. Zhang, S.H. Hu. (2009). &quot;Serum signature of antibodies to toxoplasma gondii, rubella virus, and cytomegalovirus in females with bipolar disorder: A cross-sectional study.&quot; <i>Journal of Affective Disorders</i>. 24(1).'
+citation: 'X.N. Guo, Y.Q. Chen, H.M. Huang, Y.F. Liu, L.Z. Kong, <u>__L.Z.C. Chen__</u>, H.L. Lyu, T.S. Gao, J.B. Lai, D. Zhang, S.H. Hu. (2009). &quot;Serum signature of antibodies to toxoplasma gondii, rubella virus, and cytomegalovirus in females with bipolar disorder: A cross-sectional study.&quot; <i>Journal of Affective Disorders</i>. 24(1).'
 ---
 
 Background and aim
