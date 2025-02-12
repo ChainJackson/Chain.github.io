@@ -6,16 +6,16 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+===
 {% include base_path %}
 
-Education
+Academic experience & Education
 ======
-* Ph.D. in Mechanics, Zhejiang University, 2024.09--Present
+* Ph.D. in Mechanics, Department of Engineering Mechanics, Zhejiang University, Sept. 2024 -- Present
   * Advisor: Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83)
-* B.E. in Mechanics, Zhejiang University, 2020.09--2024.06
+* B.E. in Mechanics (plan for strengthening basic academic disciplines), Chu Kochen Honors College, Zhejiang University, Sept. 2020 -- Jun. 2024
 
-Work experience
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -31,6 +31,13 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+-->
+
+Awards & Honors
+======
+* Zhilun Xu Award (for excellent students), CSTAM, 2024
+* iGEM Best Model Award, iGEM CTTE, 2023
+* Zichen Scholarship, CKCHC, 2023
 
 Publications
 ======
@@ -38,7 +45,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -49,3 +56,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  -->
