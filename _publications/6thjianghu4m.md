@@ -1,7 +1,7 @@
 ---
 title: "A generalized solution method for plane straight beam problems in elasticity"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/6thjianghu4m
 date: 2024-07-26
 venue: 'The Sixth Jianghu Quad Provincial Mechanics Conference'
