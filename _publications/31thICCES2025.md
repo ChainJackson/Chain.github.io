@@ -3,7 +3,7 @@ title: "Symplectic Contact Analysis for Finite-Sized Bi-directionally Graded Pla
 collection: publications
 category: conferences
 permalink: /publication/31thICCES2025
-date: 2024-05-01
+date: 2025-05-01
 venue: '31 th ICCES Conference'
 excerpt: ''
 slidesurl: ''
