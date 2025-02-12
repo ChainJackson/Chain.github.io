@@ -35,7 +35,7 @@ redirect_from:
 
 ## Awards & Honors
 * Zhilun Xu Award (for excellent students), CSTAM, 2024
-* iGEM Best Model Award, iGEM CTTE, 2023
+* [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
 * Zichen Scholarship, CKCHC, 2023
 
 ## Publications
