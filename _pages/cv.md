@@ -37,17 +37,20 @@ redirect_from:
 * [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
 
+## Commissions of trust
+* **Reviews for Scientific Journals**: Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 -- Present.
+
 ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+<!--   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
