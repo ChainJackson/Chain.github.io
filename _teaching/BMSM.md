@@ -1,10 +1,9 @@
 ---
 title: "Biological Materials and Self-replicating Machines"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (Teaching assistant)"
 permalink: /teaching/BMSM
 venue: "X-Institute"
 date: 2023-07-10
 location: "Shenzhen, China"
 ---
-###### Teaching assistant for Prof. Juan Keymer & Janneke Noorlag.
