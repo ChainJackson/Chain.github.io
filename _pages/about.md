@@ -15,7 +15,7 @@ Address
 ======
 Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.cn/english/2023/0509/c75921a2754909/page.psp)
 
-[Teaching Building 14]((https://www.zju.edu.cn/_upload/tpl/03/6a/874/template874/images/Yuquan.pdf)) (or 外经贸楼 in Chinese)
+[Teaching Building 14](https://www.zju.edu.cn/_upload/tpl/03/6a/874/template874/images/Yuquan.pdf) (or 外经贸楼 in Chinese)
 
 38# Zheda Road, Xihu District, Hangzhou, Zhejiang, P.R. China 310027
 
