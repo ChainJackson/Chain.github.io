@@ -7,3 +7,4 @@ venue: "31st International Conference on Computational & Experimental Engineerin
 date: 2025-05-25
 location: "Changsha, China"
 ---
+[More information here](https://www.iccesconf.org/)
