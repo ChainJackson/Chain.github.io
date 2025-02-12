@@ -3,7 +3,7 @@ title: "Serum signature of antibodies to toxoplasma gondii, rubella virus, and c
 collection: publications
 category: manuscripts
 permalink: /publication/papercXNG1
-date: 2024-06-04
+date: 2024-01-01
 venue: 'Journal of Affective Disorders'
 excerpt: ''
 paperurl: 'http://chainjackson.github.io/Chain.github.io/files/papercXNG1.pdf'
