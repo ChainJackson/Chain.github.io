@@ -1,14 +1,12 @@
 ---
 title: "[061B0280] Methods of Mathematical Physics (A) II"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (Teaching assistant)"
 permalink: /teaching/Mathematical-Physics
 venue: "Zhejiang University"
 date: 2024-02-26
 location: "Hangzhou, China"
 ---
-
-###### Teaching assistant for Prof. Weiqiu Chen.
 
 <!--Heading 1
 ======
