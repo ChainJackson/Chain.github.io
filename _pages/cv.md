@@ -10,9 +10,9 @@ redirect_from:
 
 
 ## Academic experience & Education
-* Ph.D. in Mechanics, Department of Engineering Mechanics, Zhejiang University, Sept. 2024 -- Present
+* Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- Present
   * Advisor: Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83)
-* B.E. in Mechanics, Chu Kochen Honors College, Zhejiang University, Sept. 2020 -- Jun. 2024
+* B.E. in Engineering Mechanics (with honors), Zhejiang University, Sept. 2020 -- Jun. 2024
   * Plan for strengthening basic academic disciplines
 
 <!--Work experience
