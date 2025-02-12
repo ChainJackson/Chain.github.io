@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-======
 
-Academic experience & Education
+## Academic experience & Education
 ======
 * Ph.D. in Mechanics, Department of Engineering Mechanics, Zhejiang University, Sept. 2024 -- Present
   * Advisor: Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83)
@@ -34,13 +33,13 @@ Academic experience & Education
   * Supervisor: Professor Git
 -->
 
-Awards & Honors
+## Awards & Honors
 ======
 * Zhilun Xu Award (for excellent students), CSTAM, 2024
 * iGEM Best Model Award, iGEM CTTE, 2023
 * Zichen Scholarship, CKCHC, 2023
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
