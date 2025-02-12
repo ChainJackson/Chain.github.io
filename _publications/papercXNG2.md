@@ -3,7 +3,7 @@ title: "Impact of second-generation antipsychotics monotherapy or combined thera
 collection: publications
 category: manuscripts
 permalink: /publication/papercXNG2
-date: 2024-10-16
+date: 2024-02-01
 venue: 'BMC psychiatry'
 excerpt: ''
 paperurl: 'http://chainjackson.github.io/Chain.github.io/files/papercXNG2.pdf'
