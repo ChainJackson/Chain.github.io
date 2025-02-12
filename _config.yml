@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0009-0004-5289-9772"
   semantic         : # URL
   pubmed           : # 
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Lizichen-Chen?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58996964600"
 
   # Repositories and software development
@@ -87,6 +87,8 @@ publication_category:
     title: 'Preprints'
   computer software:
     title: 'Computer Software'
+  posters:
+    title: 'Posters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
