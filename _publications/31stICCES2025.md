@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/31thICCES2025
 date: 2025-05-01
-venue: '31 th ICCES Conference'
+venue: '31st ICCES Conference'
 excerpt: ''
 slidesurl: ''
 paperurl: ''
