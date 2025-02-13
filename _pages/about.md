@@ -26,4 +26,4 @@ lzcchen[a]zju.edu.cn
 ## Interview on "Enrollment plan targets basics" at Zhejiang University
 [China National Radio](https://edu.cnr.cn/eduzt/2023jyzs/zxjy/20240418/t20240418_526671040.shtml), [ZJU micro-video](https://zdzsc.zju.edu.cn/2024/0418/c24412a2902718/page.htm), [Bilibili](https://www.bilibili.com/video/BV1ux421m735/?spm_id_from=333.999.0.0) and [ZJU official WeChat public account](https://mp.weixin.qq.com/s/c-xqX70BH4ymQNy3fSF6uA)
 ## ZJU-China Team ranked Top 10 in iGEM 2023 (Undergraduate)
-WeChat public account: [ZJU](https://mp.weixin.qq.com/s/8qDXKrl9u2-eItqPqvAI5w) and [SAA](https://mp.weixin.qq.com/s/6mvYWUqJ7IlgojWjgcCM7w)
+WeChat public account: [ZJU](https://mp.weixin.qq.com/s/8qDXKrl9u2-eItqPqvAI5w), [Zhejiangdaxuebao]() and [SAA](https://mp.weixin.qq.com/s/6mvYWUqJ7IlgojWjgcCM7w)
