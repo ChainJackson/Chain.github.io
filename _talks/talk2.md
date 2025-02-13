@@ -7,4 +7,3 @@ venue: "Department of Engineering Mechanics, Zhejiang University"
 date: 2024-11-08
 location: "Hangzhou, China"
 ---
-[Download Slide](http://chainjackson.github.io/Chain.github.io/files/slide1.pdf)
