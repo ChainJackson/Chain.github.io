@@ -40,7 +40,7 @@ redirect_from:
 ## Commissions of trust
 * **Reviews for Scientific Journals**: Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 -- 
 
-## Publications/Conferences/Software
+## Publications (Papers & Conferences & Software)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
