@@ -1,5 +1,5 @@
 ---
-title: "Elasticity characterization of a finite-sized three-dimensional layered cylinder via symplectic formulations"
+title: "Elastic contact characterization of a finite-sized three-dimensional layered cylinder via symplectic formulation"
 collection: publications
 category: manuscripts
 permalink: /publication/paper8
