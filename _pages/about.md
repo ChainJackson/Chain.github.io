@@ -10,7 +10,7 @@ redirect_from:
 Chen is currently a Ph.D. student in Mechanics at [Zhejiang University](https://www.zju.edu.cn/english/) since the fall of 2024 under the supervision of Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83). 
 
 # Research Interests
-Chen and his collaborators work on problems in symplectic mechanics and neurodynamics. He mainly focus on theoretical analysis and computational simulation. Chen extended the symplectic structure into contact mechanics, proposed and proved the dual symplectic orthogonal and dual symplectic adjoint between the eigenvectors of quasi-Hamiltonian operator and its dual operator, and extended to its generalized and higher-dimensional forms; Chen also constructed a method for the determination of contact regions of inhomogeneous media and extended to the three-dimensional case.
+Chen and his collaborators work on problems in symplectic mechanics, computational mechanics, and neurodynamics. He mainly focus on theoretical analysis and computational simulation. Chen extended the symplectic structure into contact mechanics, proposed and proved the dual symplectic orthogonal and dual symplectic adjoint between the eigenvectors of quasi-Hamiltonian operator and its dual operator, and extended to its generalized and higher-dimensional forms; Chen also constructed a method for the determination of contact regions of inhomogeneous media and extended to the three-dimensional case.
 
 # Contact
 ### Address
