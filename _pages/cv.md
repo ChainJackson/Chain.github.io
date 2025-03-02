@@ -38,7 +38,9 @@ redirect_from:
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
 
 ## Commissions of trust
-* **Reviews for Scientific Journals**: Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 -- 
+* **Reviews for Scientific Journals**:
+1. Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
+2. International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
 
 ## Publications (Papers & Conferences & Software)
   <ul>{% for post in site.publications reversed %}
