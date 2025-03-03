@@ -14,7 +14,7 @@ redirect_from:
   * Advisor: Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83)
 * B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
 
-## Academic experience
+## Academic experiences
 
 <!--Work experience
 ======
