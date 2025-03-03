@@ -9,10 +9,12 @@ redirect_from:
 {% include base_path %}
 
 
-## Academic experience & Education
+## Education
 * Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- 
   * Advisor: Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83)
 * B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
+
+## Academic experience
 
 <!--Work experience
 ======
@@ -37,7 +39,7 @@ redirect_from:
 * [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
 
-## Commissions of trust
+## Journal roles
 * **Reviews for Scientific Journals**:
 1. Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
 2. International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
