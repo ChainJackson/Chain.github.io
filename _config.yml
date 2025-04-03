@@ -25,7 +25,7 @@ author:
   avatar           : "mmexport1724313429500.jpg"
   name             : "Lizichen Chen"
   pronouns         : # example: "she/her"  
-  bio              : # "Ph.D. student, ZJU"
+  bio              : # ""
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
@@ -39,7 +39,7 @@ author:
   semantic         : # URL
   pubmed           : # 
   researchgate     : "https://www.researchgate.net/profile/Lizichen-Chen?ev=hdr_xprf"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58996964600"
+  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=58996964600"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
