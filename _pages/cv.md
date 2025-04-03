@@ -43,6 +43,7 @@ redirect_from:
 1. Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
 2. International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
 
+<!--
 ## Publications (Papers & Conferences & Software)
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -53,7 +54,6 @@ redirect_from:
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-<!--   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
