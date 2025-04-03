@@ -30,6 +30,10 @@ lzcchen[a]zju.edu.cn
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
 * China National Scholarship, MOE of PRC, 2023
 
+# Representive Publications
+1.	**<u>L.Z.C. Chen<\u>**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. International Journal of Mechanical Sciences, vol. 290, 2025. doi:10.1016/j.ijmecsci.2025.110077
+
+
 # Journal roles
 * **Reviews for Scientific Journals**:
 1. Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
