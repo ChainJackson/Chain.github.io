@@ -14,7 +14,7 @@ redirect_from:
 # Academic experiences
 
 # Research Interests
-Chen and his collaborators work on problems in mathematical mechanics, computational mathematics, and mathematical biology. He mainly focuses on theoretical analysis and computational simulation. Chen derived a class of closed-form solutions to the horizontally graded contact problem, eschewing the traditional approach of solving dual integral equations with half-space assumptions. He extended the symplectic structure into contact mechanics, proposed and proved the dual symplectic orthogonal and dual symplectic adjoint between the eigenvectors of quasi-Hamiltonian operator and its dual operator, and extended to its generalized, hybrid, and three-dimensional forms; Chen also constructed a method for the determination of contact regions of inhomogeneous media and extended to the three-dimensional case.
+Chen and his collaborators work on problems in mathematical mechanics, computational mathematics, and mathematical biology. He mainly focuses on theoretical analysis and computational simulation. Chen applied the Hamiltonian formalisms to contact mechanics, established the symplectic framework for contact analysis. He derived a class of closed-form solutions for contact analysis of inhomogeneous media, proposed and proved the dual symplectic orthogonal and dual symplectic adjoint between the eigenvectors of quasi-Hamiltonian operator and its dual operator, and extended to its generalized, hybrid, and three-dimensional forms; Chen also constructed a method for the determination of contact regions of inhomogeneous media and extended to the three-dimensional case.
 
 # Contact
 ### Address
