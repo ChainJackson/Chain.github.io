@@ -17,7 +17,15 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 ### Email
 lzcchen[a]zju.edu.cn
 
+<style>
+pre {
+  overflow-y: auto;
+  max-height: 300px;
+}
+</style>
+
 # News
+```
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
 * "Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal* and *MathRN: Applications of Difference & Differential Equations (Topic)* [Dec. 2024 -- Feb. 2025]
 * Exclusive: From attempt to passion: CHEN Lizichen’s journey of scientific research at Zhejiang University <br>
@@ -26,3 +34,4 @@ lzcchen[a]zju.edu.cn
 [China National Radio](https://edu.cnr.cn/eduzt/2023jyzs/zxjy/20240418/t20240418_526671040.shtml), [ZJU micro-video](https://zdzsc.zju.edu.cn/2024/0418/c24412a2902718/page.htm), [Bilibili](https://www.bilibili.com/video/BV1ux421m735/?spm_id_from=333.999.0.0) and [ZJU official WeChat public account](https://mp.weixin.qq.com/s/c-xqX70BH4ymQNy3fSF6uA)
 * ZJU-China Team ranked Top 10 in iGEM 2023 (Undergraduate) <br>
 [Zhejiangdaxuebao](http://chainjackson.github.io/Chain.github.io/files/Zhejiangdaxuebao.pdf) and WeChat public account: ([ZJU](https://mp.weixin.qq.com/s/8qDXKrl9u2-eItqPqvAI5w) and [SAA](https://mp.weixin.qq.com/s/6mvYWUqJ7IlgojWjgcCM7w))
+```
