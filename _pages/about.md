@@ -31,8 +31,8 @@ lzcchen[a]zju.edu.cn
 * China National Scholarship, MOE of PRC, 2023
 
 # Representive Publications
-1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. International Journal of Mechanical Sciences, vol. 290, 2025. doi:10.1016/j.ijmecsci.2025.110077
-2.	***L.Z.C. Chen***. A Nambu-Routh representation of mechanics. SSRN, 2024. doi:10.2139/ssrn.5060899
+1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 2025. doi:10.1016/j.ijmecsci.2025.110077
+2.	***L.Z.C. Chen***. A Nambu-Routh representation of mechanics. *SSRN*, 2024. doi:10.2139/ssrn.5060899
 
 
 # Journal roles
