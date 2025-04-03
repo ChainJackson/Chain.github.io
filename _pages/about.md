@@ -36,9 +36,9 @@ lzcchen[a]zju.edu.cn
 
 
 # Journal roles
-* **Reviews for Scientific Journals**:
-1. Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
-2. International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
+* **Reviews for Scientific Journals:**
+  * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
+  * International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
 
 # News
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
