@@ -28,6 +28,7 @@ lzcchen[a]zju.edu.cn
 * Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
 * [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
+* China National Scholarship, MOE of PRC, 2023
 
 # Journal roles
 * **Reviews for Scientific Journals**:
