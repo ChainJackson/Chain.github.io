@@ -22,7 +22,7 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 [Teaching Building 14](https://www.zju.edu.cn/_upload/tpl/03/6a/874/template874/images/Yuquan.pdf) of Yuquan Campus (or 玉泉校区外经贸楼 in Chinese) <br>
 38# Zheda Road, Xihu District, Hangzhou, Zhejiang, P.R. China 310027
 * **Email:** <br>
-lzcchen[a]zju.edu.cn
+lzcchen@zju.edu.cn
 
 # Awards & Honors
 * Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
@@ -39,6 +39,11 @@ lzcchen[a]zju.edu.cn
 * **Reviews for Scientific Journals:**
   * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
   * International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
+
+# Research Projects
+1. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
+2. Mechanical theories of high-throughput experimental characterization methods of gradient specimens via the full-field analysis, supported by the National Natural Science Foundation of China (No. 12192211), 2022.01-2026.12, Participated.
+3.	Control and application of piezoelectric metamaterials and elastic waves, supported by the Natural Science Foundation of Zhejiang Province (No. LD21A020001), 2022.01-2024.12, Participated.
 
 # News
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
