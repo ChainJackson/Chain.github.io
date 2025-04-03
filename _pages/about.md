@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chen is currently a Ph.D. student in Mechanics at [Zhejiang University](https://www.zju.edu.cn/english/) since the fall of 2024 under the supervision of Prof. [Weiqiu Chen](https://person.zju.edu.cn/GB?fulltext=%E9%99%88%E4%BC%9F%E7%90%83). 
-
-# Research Interests
-Chen and his collaborators work on problems in mathematical mechanics, computational mechanics, and mathematical biology. He mainly focuses on theoretical analysis and computational simulation.
+Chen and his collaborators work on problems in mathematical mechanics, computational mathematics, and mathematical biology. He mainly focuses on theoretical analysis and computational simulation.
 
 # Contact
 ### Address
