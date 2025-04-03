@@ -20,7 +20,7 @@ lzcchen[a]zju.edu.cn
 <style>
 pre {
   overflow-y: auto;
-  max-height: 300px;
+  max-length: 300px;
 }
 </style>
 
