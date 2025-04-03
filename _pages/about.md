@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+# Education
+* Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- 
+* B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
+
+# Academic experiences
+
+# Research Interests
 Chen and his collaborators work on problems in mathematical mechanics, computational mathematics, and mathematical biology. He mainly focuses on theoretical analysis and computational simulation.
 
 # Contact
@@ -17,6 +24,15 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 ### Email
 lzcchen[a]zju.edu.cn
 
+# Awards & Honors
+* Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
+* [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
+* [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
+
+# Journal roles
+* **Reviews for Scientific Journals**:
+1. Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
+2. International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
 
 # News
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
