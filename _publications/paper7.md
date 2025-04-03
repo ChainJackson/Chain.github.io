@@ -1,5 +1,5 @@
 ---
-title: "Symplectic contact analysis of a film-substrate system for horizontally graded material characterization"
+title: "Symplectic contact analysis of a film-substrate system for high-throughout material characterization"
 collection: publications
 category: manuscripts
 permalink: /publication/paper7
