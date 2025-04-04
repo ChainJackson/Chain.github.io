@@ -6,9 +6,12 @@ permalink: /publication/paper3
 date: 2024-06-01
 venue: 'Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences'
 excerpt: ''
-paperurl: 'http://chainjackson.github.io/Chain.github.io/files/paper3.pdf'
 citation: '<u>L.Z.C. Chen</u> and W.Q. Chen. &quot;Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane. &quot; <i>Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>, 2025, 481(2306):20240591. https://doi.org/10.1098/rspa.2024.0591'
 ---
+
+<!---
+paperurl: 'http://chainjackson.github.io/Chain.github.io/files/paper3.pdf'
+--->
 
 ## Abstract
 Material characterization using high-throughput testing (HTT) techniques have shown great 
