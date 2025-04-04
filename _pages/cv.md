@@ -13,6 +13,7 @@ redirect_from:
 * B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
 
 # Academic experiences
+* 
 
 # Awards & Honors
 * Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
