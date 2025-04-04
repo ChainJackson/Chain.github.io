@@ -6,9 +6,12 @@ permalink: /publication/papercXNG2
 date: 2024-02-01
 venue: 'BMC psychiatry'
 excerpt: ''
-paperurl: 'http://chainjackson.github.io/Chain.github.io/files/papercXNG2.pdf'
 citation: 'X.N. Guo, L.Z. Kong, Y.L. Wen, <u>L.Z.C. Chen</u>, S.H. Hu. &quot;Serum signature of antibodies to toxoplasma gondii, rubella virus, and cytomegalovirus in females with bipolar disorder: A cross-sectional study.&quot; <i>BMC psychiatry</i>, 2024, 24(1):1-14, 695. https://doi.org/10.1186/s12888-024-06141-z'
 ---
+
+<!---
+paperurl: 'http://chainjackson.github.io/Chain.github.io/files/papercXNG2.pdf'
+--->
 
 ## Abstract
 **Background** Schizophrenia (SCZ) shares high clinical relevance with the immune system, and the potential 
