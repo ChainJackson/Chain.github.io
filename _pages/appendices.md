@@ -10,3 +10,6 @@ redirect_from:
 [Download](http://chainjackson.github.io/Chain.github.io/files/codes_for_RSPA-2024-0591.zip)
 2. Adhesive cases in "Symplectic contact analysis of a film-substrate system for high-throughput material characterization" <br>
 [Download](http://chainjackson.github.io/Chain.github.io/files/Adhesive_cases.pdf)
+3. Influence of initial stress on indentation process <br>
+[Download](http://chainjackson.github.io/Chain.github.io/files/Initial_stress.pdf)
+
