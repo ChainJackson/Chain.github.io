@@ -6,8 +6,7 @@ permalink: /publication/preprint2
 date: 2025-2-15
 venue: 'SSRN'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>. &quot;3D symplectic expansion in spherical coordinates. &quot; <i>SSRN</i>, 2025. http://dx.doi.org/10.2139/ssrn.	
-5205026'
+citation: '<u>L.Z.C. Chen</u>. &quot;3D symplectic expansion in spherical coordinates. &quot; <i>SSRN</i>, 2025. http://dx.doi.org/10.2139/ssrn.5205026'
 ---
 
 <!---
