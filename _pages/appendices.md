@@ -14,7 +14,7 @@ redirect_from:
 [Download](http://chainjackson.github.io/Chain.github.io/files/Initial_stress.pdf)
 4. 3D symplectic expansion in spherical coordinates <br>
 [Download](http://chainjackson.github.io/Chain.github.io/files/3D_Symplectic_Expansion_in_Spherical_Coordinates.pdf)
-5. <br>
+5. Dual Hamiltonian transformation for a 3D inhomogeneous layer of a cylinder & Symplectic formulism for coupled physical multi-fields <br>
 [Download](http://chainjackson.github.io/Chain.github.io/files/3D_Symplectic_Expansion_in_Spherical_Coordinates.pdf)
 6. Appendix for "Contact analysis for a horizontally graded soft electroactive material under uniform biasing fields in symplectic approach" <br>
 [Download](http://chainjackson.github.io/Chain.github.io/files/3D_Symplectic_Expansion_in_Spherical_Coordinates.pdf)
