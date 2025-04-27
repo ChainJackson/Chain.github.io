@@ -12,8 +12,10 @@ redirect_from:
 * Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- 
 * B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
 
+<!---
 # Academic experiences
 * 
+--->
 
 # Awards & Honors
 * Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
@@ -23,6 +25,7 @@ redirect_from:
 
 # Representive Publications
 1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 2025. doi:10.1016/j.ijmecsci.2025.110077
+2.	***L.Z.C. Chen***. A Nambu-Routh representation of mechanics. *SSRN*, 2024. doi:10.2139/ssrn.5060899
 
 # Journal roles
 * **Reviews for Scientific Journals:**
