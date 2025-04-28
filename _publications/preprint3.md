@@ -6,7 +6,7 @@ permalink: /publication/preprint3
 date: 2025-4-28
 venue: 'SSRN'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>. &quot;Symplectic contact analysis for a graded soft electroactive material under uniform biasing fields. &quot; <i>SSRN</i>, 2024. http://dx.doi.org/10.2139/ssrn.5233013'
+citation: '<u>L.Z.C. Chen</u>. &quot;Symplectic contact analysis for a graded soft electroactive material under uniform biasing fields. &quot; <i>SSRN</i>, 2025. http://dx.doi.org/10.2139/ssrn.5233013'
 ---
 
 <!---
