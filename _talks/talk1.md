@@ -2,7 +2,7 @@
 title: "Symplectic contact analysis for finite-sized bi-directionally graded plane with multi-field coupling"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/talk3
+permalink: /talks/talk1
 venue: "31st International Conference on Computational & Experimental Engineering and Sciences (ICCES2025)"
 date: 2025-05-25
 location: "Changsha, China"
