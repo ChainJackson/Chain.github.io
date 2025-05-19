@@ -7,7 +7,7 @@ venue: "31st International Conference on Computational & Experimental Engineerin
 date: 2025-05-25
 location: "Changsha, China"
 ---
-This talk is a **Keynote Talk** <br>
+This talk is a **Keynote Talk** of ICCES 2025 <br>
 [More information here](https://www.iccesconf.org/)
 
 <!---
