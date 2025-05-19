@@ -1,12 +1,12 @@
 ---
 title: "Symplectic contact analysis for a graded soft electroactive material under uniform biasing fields"
 collection: publications
-category: preprints
-permalink: /publication/preprint3
+category: manuscripts
+permalink: /publication/paper9
 date: 2025-4-28
 venue: 'SSRN'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>. &quot;Symplectic contact analysis for a graded soft electroactive material under uniform biasing fields. &quot; <i>SSRN</i>, 2025. http://dx.doi.org/10.2139/ssrn.5233013'
+citation: '<u>L.Z.C. Chen</u>. &quot;Symplectic contact analysis for a graded soft electroactive material under uniform biasing fields. &quot; <i>SSRN</i>, 2025. http://dx.doi.org/10.2139/ssrn.5240420'
 ---
 
 <!---
