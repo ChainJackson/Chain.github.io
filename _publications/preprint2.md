@@ -29,6 +29,7 @@ paperurl: 'http://chainjackson.github.io/Chain.github.io/files/preprint1.pdf'
  	7.2	Data generated from gaussian random field <br>
   	7.3	Data designed for heterogeneous (or laminated) media
 8.	Lie groups for symmetry
-9.	Additional derivations
-10.	References
+9.	Derivation of symplectic framework for additional cases
+10.	KATNO accelerated by quantum computing
+11.	References
 
