@@ -25,6 +25,7 @@ redirect_from:
 
 # Representive Publications
 1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 2025. doi:10.1016/j.ijmecsci.2025.110077
+2.	***L.Z.C. Chen*** and W.Q. Chen. Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, vol. 481, no. 2306, 2025. doi:10.1098/rspa.2024.0591
 
 # Journal roles
 * **Reviews for Scientific Journals:**
