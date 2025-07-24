@@ -1,8 +1,8 @@
 ---
 title: "Symplectic contact analysis for a graded soft electroactive material under uniform biasing fields"
 collection: publications
-category: manuscripts
-permalink: /publication/paper9
+category: preprints
+permalink: /publication/preprint3
 date: 2025-4-28
 venue: 'SSRN'
 excerpt: ''
