@@ -1,8 +1,8 @@
 ---
-title: "AI-enabled high-throughput characterization of material properties based on indentation responses"
+title: "AI-enabled high-throughput characterization of material properties based on indentation response"
 collection: publications
 category: manuscripts
-permalink: /publication/paper10
+permalink: /publication/paper9
 date: 2025-06-10
 venue: 'SSRN'
 excerpt: ''
