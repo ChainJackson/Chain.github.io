@@ -3,7 +3,7 @@ title: "非均匀接触力学辛方法"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/talk3
-venue: "第六届全国博士生力学论坛"
+venue: "The 6th National Forum for PhD Students in Mechanics"
 date: 2025-08-01
 location: "Harbin, China"
 ---
