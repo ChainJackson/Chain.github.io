@@ -1,5 +1,5 @@
 ---
-title: "非均匀接触力学辛方法"
+title: "非均匀接触力学辛方法(Symplectic contact analysis of inhomogeneous media)"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/talk3
