@@ -34,7 +34,6 @@ redirect_from:
 
 # Research Projects
 1. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
-2. Mechanical theories of high-throughput experimental characterization methods of gradient specimens via the full-field analysis, supported by the National Natural Science Foundation of China (No. 12192211), 2022.01-2026.12, Participated.
 
 <!--
 ## Publications (Papers & Conferences & Software)
