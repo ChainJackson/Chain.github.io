@@ -17,19 +17,24 @@ paperurl: 'http://chainjackson.github.io/Chain.github.io/files/preprint1.pdf'
 1.	Adhesive case in symplectic contact analysis
 2.	Influence of initial stress on indentation process
 3.	3D symplectic expansion in spherical coordinates <br>
-	3.1	Appendix A <br>
-	3.2	Appendix B
+	Basic formulations <br>
+  	Appendix A <br>
+   	Appendix B  	
 4.	Dual Hamiltonian Transformation for a 3D inhomogeneous layer of a cylinder
 5.	Symplectic formulism for coupled physical multi-fields <br>
   	5.1	Linear piezoelectric cylinder <br>
   	5.2	Compressible soft electroactive cylinder
-6.	Classification of operators and transformations
-7.	Forward and inverse problems via FNOs <br>
-	7.1	Data generated from symplectic analysis <br>
- 	7.2	Data generated from gaussian random field <br>
-  	7.3	Data designed for heterogeneous (or laminated) media
+6.	Derivation of symplectic framework for additional cases <br>
+   	6.1 Micropolar elasticity <br>
+		6.1.1 Inhomogeneity <br>
+  		6.1.2 Homogenization <br>
+	6.2 Hexagonal quasicrystal
+7.	Classification of operators and transformations
 8.	Lie groups for symmetry
-9.	Derivation of symplectic framework for additional cases
+9.	Forward and inverse problems via FNOs <br>
+	9.1	Data generated from symplectic analysis <br>
+   	9.2	Data generated from gaussian random field <br>
+  	9.3	Data designed for heterogeneous (or laminated) media
 10.	KATNO accelerated by quantum computing
 11.	References
 
