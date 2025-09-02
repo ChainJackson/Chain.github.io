@@ -25,9 +25,9 @@ paperurl: 'http://chainjackson.github.io/Chain.github.io/files/preprint1.pdf'
   	5.1	Linear piezoelectric cylinder <br>
   	5.2	Compressible soft electroactive cylinder
 6.	Derivation of symplectic framework for additional cases <br>
-   	6.1 Micropolar elasticity
-		6.1.1 Inhomogeneity <br>
-  		6.1.2 Homogenization
+   	6.1. Micropolar elasticity
+		6.1.1. Inhomogeneity <br>
+  		6.1.2. Homogenization
 	6.2 Hexagonal quasicrystal
 7.	Classification of operators and transformations
 8.	Lie groups for symmetry
