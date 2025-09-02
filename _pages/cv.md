@@ -30,6 +30,7 @@ redirect_from:
 * **Reviews for Scientific Journals:**
   * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
   * International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
+  * Physics of Fluids (POF), Sept. 2025 --
 
 # Research Projects
 1. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
