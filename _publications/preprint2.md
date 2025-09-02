@@ -25,9 +25,9 @@ paperurl: 'http://chainjackson.github.io/Chain.github.io/files/preprint1.pdf'
   	5.1	Linear piezoelectric cylinder <br>
   	5.2	Compressible soft electroactive cylinder
 6.	Derivation of symplectic framework for additional cases <br>
-   	6.1 Micropolar elasticity <br>
+   	6.1 Micropolar elasticity
 		6.1.1 Inhomogeneity <br>
-  		6.1.2 Homogenization <br>
+  		6.1.2 Homogenization
 	6.2 Hexagonal quasicrystal
 7.	Classification of operators and transformations
 8.	Lie groups for symmetry
@@ -36,5 +36,6 @@ paperurl: 'http://chainjackson.github.io/Chain.github.io/files/preprint1.pdf'
    	9.2	Data generated from gaussian random field <br>
   	9.3	Data designed for heterogeneous (or laminated) media
 10.	KATNO accelerated by quantum computing
-11.	References
+11. Further explorations of the normal-tangential coupling phenomenon induced by material inhomogeneity 
+12.	References
 
