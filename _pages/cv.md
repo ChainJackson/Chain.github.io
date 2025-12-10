@@ -24,7 +24,10 @@ redirect_from:
 * China National Scholarship, MOE of PRC, 2023
 
 # Representive Publications
-1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 110077, 2025. doi:10.1016/j.ijmecsci.2025.110077
+1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. *International Journal of Solids and Structures*, vol. 325, 113695, 2025. doi:10.1016/j.ijsolstr.2025.113695
+2.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 110077, 2025. doi:10.1016/j.ijmecsci.2025.110077
+3.	***L.Z.C. Chen*** and W.Q. Chen. Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, vol. 481, no. 2306, 2025. doi:10.1098/rspa.2024.0591
+
 
 # Journal roles
 * **Reviews for Scientific Journals:**
@@ -33,7 +36,8 @@ redirect_from:
   * Physics of Fluids (POF), Sept. 2025 --
 
 # Research Projects
-1. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
+1. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by the National Natural Science Foundation of China (No. 125B2042), 2026.01-2027.12, Principal Investigator.
+2. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
 
 <!--
 ## Publications (Papers & Conferences & Software)
