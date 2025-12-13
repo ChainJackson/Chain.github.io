@@ -36,7 +36,7 @@ redirect_from:
   * Physics of Fluids (POF), Sept. 2025 --
 
 # Research Projects
-1. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by the National Natural Science Foundation of China (No. 125B2042), 2026.01-2027.12, Principal Investigator.
+1. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by the National Natural Science Foundation of China (No. 125B2042), 2026.01-2027.12, Presided.
 2. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
 
 <!--
