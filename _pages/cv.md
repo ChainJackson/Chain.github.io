@@ -18,10 +18,10 @@ redirect_from:
 --->
 
 # Awards & Honors
+* China National Scholarship, MOE of PRC, 2025 & 2023
 * Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
 * [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), CKCHC, 2023
-* China National Scholarship, MOE of PRC, 2023
 
 # Representive Publications
 1.	***L.Z.C. Chen***, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. *International Journal of Solids and Structures*, vol. 325, 113695, 2025. doi:10.1016/j.ijsolstr.2025.113695
