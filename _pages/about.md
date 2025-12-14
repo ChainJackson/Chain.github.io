@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Research Interests
-Chen and his collaborators work on problems in mathematical mechanics, computational mathematics, and mathematical biology. Chen established and developed a framework symplectic contact analysis, which is applicable to contact analysis of inhomogeneous medium in finite-sized domain. He proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation, and their eigenvectors satisfy the dual adjoint symplectic orthogonality; He introduced the Cantor pairing diagram, constructed an analytical method for the determination of irregular contact areas of inhomogeneous media based on the symplectic analysis. He also developed a stable algorithm for inverse contact analysis.
+Chen and his collaborators work on problems in mathematical mechanics, computational mathematics, and mathematical biology.
 # Contact
 * **Address:** <br>
 Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.cn/english/2023/0509/c75921a2754909/page.psp) <br>
@@ -18,6 +18,7 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn
 
 # News
+* Chen presided over Qiushixinxing Plan of Zhejiang University on Dec. 11, 2025
 * Chen presided over National Natural Science Foundation of China (Doctoral Programme) on Dec. 10, 2025
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
 * "Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal* and *MathRN: Applications of Difference & Differential Equations (Topic)* [Dec. 2024 -- Feb. 2025]
