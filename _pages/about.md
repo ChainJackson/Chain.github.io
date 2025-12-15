@@ -18,8 +18,9 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn
 
 # News
-* Chen presided over Qiushixinxing Plan of Zhejiang University on Dec. 11, 2025
-* Chen presided over National Natural Science Foundation of China (Doctoral Programme) on Dec. 10, 2025
+* Selected for the China Association for Science and Technology (CAST) Young Elite Scientist Sponsorship Program on Dec. 15, 2025
+* Awarded a place in the Qiushi Rising Star Program of Zhejiang University on Dec. 11, 2025
+* Presided over National Natural Science Foundation of China (Doctoral Programme) on Dec. 10, 2025
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
 * "Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal* and *MathRN: Applications of Difference & Differential Equations (Topic)* [Dec. 2024 -- Feb. 2025]
 * Exclusive: From attempt to passion: CHEN Lizichen’s journey of scientific research at Zhejiang University <br>
