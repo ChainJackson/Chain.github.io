@@ -18,6 +18,8 @@ redirect_from:
 --->
 
 # Awards & Honors
+* Young Elite Scientist Sponsorship Program, CAST, 2025
+* Qiushi Rising Star Program, ZJU, 2025
 * China National Scholarship, MOE of PRC, 2025 & 2023
 * Zhilun Xu Award (for excellent students in mechanics), CSTAM, 2024
 * [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), iGEM CTTE, 2023
@@ -36,9 +38,10 @@ redirect_from:
   * Physics of Fluids (POF), Sept. 2025 --
 
 # Research Projects
-1. Material characterization via contact analysis, supported by the Qiushixinxing Plan of Zhejiang University, 2026.01-2028.06, Presided.
-2. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by the National Natural Science Foundation of China (No. 125B2042), 2026.01-2027.12, Presided.
-3. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
+1. The China Association for Science and Technology Young Elite Scientist Sponsorship Program, 2026.01-2027.12, Presided.
+2. Material characterization via contact analysis, supported by the Qiushi Rising Star Program of Zhejiang University, 2026.01-2028.06, Presided.
+3. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by the National Natural Science Foundation of China (No. 125B2042), 2026.01-2027.12, Presided.
+4. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by the National Natural Science Foundation of China (No. 12192210), 2022.01-2026.12, Participated.
 
 <!--
 ## Publications (Papers & Conferences & Software)
