@@ -35,7 +35,7 @@ redirect_from:
 * **Reviews for Scientific Journals:**
   * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
   * International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
-  * Physics of Fluids (POF), Sept. 2025 --
+  * Physics of Fluids (PoF), Sept. 2025 --
 
 # Research Projects
 1. The China Association for Science and Technology Young Elite Scientist Sponsorship Program, 2026.01-2027.12, Principal Investigator.
