@@ -6,7 +6,7 @@ permalink: /publication/paper5
 date: 2024-08-01
 venue: 'International Journal of Mechanical Sciences'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>, C.W. Lim and W.Q. Chen. &quot;Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. &quot; <i>International Journal of Mechanical Sciences</i>, 290, 110077, 2025. https://doi.org/10.1016/j.ijmecsci.2025.110077'
+citation: '<u>L.Z.C. Chen</u>, C.W. Lim, and W.Q. Chen. &quot;Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. &quot; <i>International Journal of Mechanical Sciences</i>, 290, 110077, 2025. https://doi.org/10.1016/j.ijmecsci.2025.110077'
 ---
 
 <!---
@@ -18,3 +18,4 @@ The application of high-throughput testing methodologies and the involvement of 
 
 ## Keywords
 symplectic; contact analysis; multi-physics coupling; dual Hamiltonian transformation; horizontal exponential gradient; dual adjoint symplectic orthogonality
+
