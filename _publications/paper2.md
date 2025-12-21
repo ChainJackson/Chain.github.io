@@ -6,7 +6,7 @@ permalink: /publication/paper2
 date: 2024-05-01
 venue: 'Mechanics in Engineering'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>, C.L. Zhang, X.D. Shen, W.Q. Chen. &quot;A general strategy for solutions of plane elasticity problems of straight beams. &quot; <i>Mechanics in Engineering</i>, 2024, 46(6):1271-1277. https://lxsj.cstam.org.cn/en/article/doi/10.6052/1000-0879-24-086'
+citation: '<u>L.Z.C. Chen</u>, C.L. Zhang, X.D. Shen, and W.Q. Chen. &quot;A general strategy for solutions of plane elasticity problems of straight beams. &quot; <i>Mechanics in Engineering</i>, 2024, 46(6):1271-1277. https://lxsj.cstam.org.cn/en/article/doi/10.6052/1000-0879-24-086'
 ---
 
 <!---
@@ -18,3 +18,4 @@ Response analyses of narrow straight beams of uniform rectangular cross-section 
 
 ## Keywords
 straight beam, stress function, general strategy, Saint Venant’s principle
+
