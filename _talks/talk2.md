@@ -1,7 +1,7 @@
 ---
 title: "Symplectic contact analysis of inhomogeneous media: forward and inverse problems"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference talk"
 permalink: /talks/talk2
 venue: "Chinese Congress of Theoretical and Applied Mechanics 2025"
 date: 2025-07-18
