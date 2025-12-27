@@ -1,7 +1,7 @@
 ---
 title: "非均匀接触力学辛方法(Symplectic contact analysis of inhomogeneous media)"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference talk"
 permalink: /talks/talk3
 venue: "The 6th National Forum for PhD Students in Mechanics"
 date: 2025-08-01
