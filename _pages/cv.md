@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- 
+* Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- Present
 * B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
 
 <!---
@@ -31,9 +31,9 @@ redirect_from:
 
 # Academic Services
 * **Reviewers for Scientific Journals:**
-  * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 --
-  * International Journal of Mechanical Sciences (IJMS), Mar. 2025 --
-  * Physics of Fluids (POF), Sept. 2025 --
+  * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 -- Present
+  * International Journal of Mechanical Sciences (IJMS), Mar. 2025 -- Present
+  * Physics of Fluids (POF), Sept. 2025 -- Present
 
 # Research Projects
 1. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, 2026.01-2027.12, **Principal Investigator**, ¥ 40,000
