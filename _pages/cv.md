@@ -36,10 +36,10 @@ redirect_from:
   * Physics of Fluids (POF), Sept. 2025 -- Present
 
 # Research Projects
-1. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, 2026.01-2027.12, **Principal Investigator**, ¥ 40,000
-2. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, 2026.01-2028.06, **Principal Investigator**, ¥ 90,000
-3. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), 2026.01-2027.12, **Principal Investigator**, ¥ 300,000 
-4. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), 2022.01-2026.12, **Participant**, ¥ 15,000,000
+1. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 40,000
+2. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, Jan. 2026 -- Jun. 2028, **Principal Investigator**, ¥ 90,000
+3. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
+4. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, **Participant**, ¥ 15,000,000
 
 <!--
 ## Publications (Papers & Conferences & Software)
