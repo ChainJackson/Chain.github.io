@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* Ph.D. in Mechanics, Zhejiang University, Sept. 2024 -- Present
-* B.E. (with honors) in Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
+* Ph.D., Mechanics, Zhejiang University, Sept. 2024 -- Present
+* B.E. (with honors), Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024
 
 <!---
 # Academic experiences
