@@ -6,7 +6,7 @@ permalink: /publication/paper9
 date: 2025-06-10
 venue: 'MechanoEngineering'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>, G.X. Zhu, Y.H. Chen, C.W. Lim, and W.Q. Chen. &quot;AI-enabled high-throughput characterization of material properties based on indentation response. &quot; <i>MechanoEngineering</i>, 2025. (invited contribution from Prof. T.J. Lu)'
+citation: '<u>L.Z.C. Chen</u>, G.X. Zhu, Y.H. Chen, C.W. Lim, and W.Q. Chen. &quot;AI-enabled high-throughput characterization of material properties based on indentation response. &quot; <i>MechanoEngineering</i>, vol. 1, no. 1, 014301, 2026. doi: 10.1063/5.0284635 (invited contribution from Prof. T.J. Lu)'
 ---
 
 ## Abstract
@@ -14,3 +14,4 @@ High-throughput characterization (HTC) is a highly time-efficient and space- com
 
 ## Keywords
 contact mechanics; deep learning; high-throughput characterization; neural operator; symplectic analysis
+
