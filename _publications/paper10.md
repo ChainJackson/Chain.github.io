@@ -6,7 +6,7 @@ permalink: /publication/paper10
 date: 2026-01-25
 venue: 'International Journal of Mechanical Sciences'
 excerpt: ''
-citation: '<u>L.Z.C. Chen</u>, G.X. Zhu, Y.H. Chen, R.H. Bao, C.W. Lim, and W.Q. Chen. &quot;Contact-based high-throughput material characterization via Kolmogorov-Arnold Transformer neural operator. &quot; <i>International Journal of Mechanical Sciences</i>, 111308, 2026. [https://doi.org/10.1016/j.ijmecsci.2026.111308](https://doi.org/10.1016/j.ijmecsci.2026.111308)'
+citation: '<u>L.Z.C. Chen</u>, G.X. Zhu, Y.H. Chen, R.H. Bao, C.W. Lim, and W.Q. Chen. &quot;Contact-based high-throughput material characterization via Kolmogorov-Arnold Transformer neural operator. &quot; <i>International Journal of Mechanical Sciences</i>, 313, 111308, 2026. [https://doi.org/10.1016/j.ijmecsci.2026.111308](https://doi.org/10.1016/j.ijmecsci.2026.111308)'
 ---
 
 ## Abstract
@@ -14,4 +14,5 @@ High-throughput characterization (HTC) techniques grounded in contact mechanics 
 
 ## Keywords
 contact mechanics; high-throughput characterization; inverse problem; neural operator; Transformer; symplectic analysis
+
 
