@@ -20,11 +20,6 @@ redirect_from:
 # Selected Honors and Awards
 * National Scholarship, *Ministry of Education of the People's Republic of China*, 2025 & 2023
 * Zhilun Xu Excellent Student of Mechanics, *the Chinese Society of Theoretical and Applied Mechanics*, 2024
-
-<!---
-* [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), *iGEM Committee*, 2023
---->
-
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), *Chu Kochen Honors College*, 2023
 
 # Representative Publications
