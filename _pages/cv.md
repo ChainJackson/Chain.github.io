@@ -18,15 +18,14 @@ redirect_from:
 --->
 
 # Selected Honors and Awards
-<!---
 * National Scholarship, *Ministry of Education of the People's Republic of China*, 2025 & 2023
---->
 * Zhilun Xu Excellent Student of Mechanics, *the Chinese Society of Theoretical and Applied Mechanics*, 2024
 
 <!---
 * [iGEM Best Model Award](https://2023.igem.wiki/zju-china/model), *iGEM Committee*, 2023
-* [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), *Chu Kochen Honors College*, 2023
 --->
+
+* [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), *Chu Kochen Honors College*, 2023
 
 # Representative Publications
 1.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. *International Journal of Solids and Structures*, vol. 325, 113695, 2025. doi:10.1016/j.ijsolstr.2025.113695
@@ -41,10 +40,11 @@ redirect_from:
   * Physics of Fluids (POF), Sept. 2025 -- Present
 
 # Research Projects
-1. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 40,000
-2. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, Jan. 2026 -- Jun. 2028, **Principal Investigator**, ¥ 90,000
-3. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
-4. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, **Participant**, ¥ 15,000,000
+1. Contact analysis of soft materials, supported by *the Qiushifeiying Program of Zhejiang University*, Oct. 2026 -- Oct. 2027, **Principal Investigator**, ¥ 115,000
+2. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 40,000
+3. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, Jan. 2026 -- Jun. 2028, **Principal Investigator**, ¥ 90,000
+4. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
+5. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, **Participant**, ¥ 15,000,000
 
 <!--
 ## Publications (Papers & Conferences & Software)
