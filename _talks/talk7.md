@@ -18,4 +18,4 @@ location: "Harbin, Heilongjiang, China"
 <!---
 ## Cite
 **L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Symplectic contact analysis of inhomogeneous media. The 6th National Forum for PhD Students in Mechanics. Harbin, Heilongjiang, China. August 1-3, 2025. (in Chinese)
----!>
+--->
