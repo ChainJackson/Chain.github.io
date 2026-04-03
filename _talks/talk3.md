@@ -32,4 +32,5 @@ High-throughput testing technologies based on functionally graded specimens hold
 ## Keywords
 symplectic framework; contact analysis; bi-directionally graded plane; multi-field coupling; dual-shift Hamiltonian transformation
 
+## Cite
 **L.Z.C. Chen** and W.Q. Chen. Symplectic contact analysis for finite-sized bi-directionally graded plane with multi-field coupling. The 31st International Conference on Computational & Experimental Engineering and Science. Changsha, Hunan, China. May 26-29, 2025.
