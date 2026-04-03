@@ -18,4 +18,4 @@ location: "Changsha, Hunan, China"
 <!---
 ## Cite
 **L.Z.C. Chen** and W.Q. Chen. Symplectic contact analysis of inhomogeneous media: forward and inverse problems. Chinese Congress of Theoretical and Applied Mechanics 2025. Changsha, Hunan, China. July 18-21, 2025. (in Chinese)
----!>
+--->
