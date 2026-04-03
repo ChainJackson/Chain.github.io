@@ -5,7 +5,7 @@ type: "Conference talk"
 permalink: /talks/talk3
 venue: "The 6th National Forum for PhD Students in Mechanics"
 date: 2025-08-01
-location: "Harbin, China"
+location: "Harbin, Heilongjiang"
 ---
 [More information here](https://meeting.cstam.org.cn/?mid=116&sid=461)
 
