@@ -10,4 +10,4 @@ location: "Alghero, Sardinia, Italy"
 <!---
 ## Cite
 **L.Z.C. Chen** and W.Q. Chen. Symplectic contact analysis of inhomogeneous media. International Conference on NonLinear Solid Mechanics (ICoNSoM 2026). Alghero, Sardinia, Italy. June 11-18, 2026.
----!>
+--->
