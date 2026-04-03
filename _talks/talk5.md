@@ -5,7 +5,7 @@ type: "Conference talk"
 permalink: /talks/talk5
 venue: "Chinese Congress of Theoretical and Applied Mechanics 2025"
 date: 2025-07-18
-location: "Changsha, Hunan"
+location: "Changsha, Hunan, China"
 ---
 [More information here](https://cctam2025.cstam.org.cn/?sid=337&mid=85&v=100)
 
