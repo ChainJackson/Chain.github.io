@@ -15,3 +15,6 @@ location: "Harbin, Heilongjiang, China"
 
 ## Keywords
 接触力学辛方法；对偶哈密顿变换；接触区域
+
+## Cite
+**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Symplectic contact analysis of inhomogeneous media. The 6th National Forum for PhD Students in Mechanics. Harbin, Heilongjiang, China. August 1-3, 2025. (in Chinese)
