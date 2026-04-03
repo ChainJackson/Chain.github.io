@@ -15,3 +15,6 @@ location: "Changsha, Hunan, China"
 
 ## Keywords
 接触力学；辛方法；对偶哈密顿变换；接触区域；神经算子学习
+
+## Cite
+**L.Z.C. Chen** and W.Q. Chen. Symplectic contact analysis of inhomogeneous media: forward and inverse problems. Chinese Congress of Theoretical and Applied Mechanics 2025. Changsha, Hunan, China. July 18-21, 2025. (in Chinese)
