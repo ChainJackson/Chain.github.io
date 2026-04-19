@@ -1,4 +1,3 @@
-<img width="2733" height="2733" alt="IMG_20260419_200635_edit_182659855013793" src="https://github.com/user-attachments/assets/34a24d51-0d32-45d4-a60d-e010571a4d63" />---
 layout: archive
 title: ""
 permalink: /cv/
