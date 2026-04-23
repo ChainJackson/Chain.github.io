@@ -34,6 +34,7 @@ redirect_from:
   * International Journal of Mechanical Sciences (IJMS), Mar. 2025 -- Present
   * Physics of Fluids (POF), Sept. 2025 -- Present
   * Acta Mechanica Solida Sinica (AMSS), Apr. 2026 -- Present
+  * Chinese Journal of Solid Mechanics (CJSM), Apr. 2026 -- Present
 
 # Research Projects
 1. Contact analysis of soft materials, supported by *the Qiushifeiying Program of Zhejiang University*, Oct. 2026 -- Oct. 2027, **Principal Investigator**, ¥ 115,000
