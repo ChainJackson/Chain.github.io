@@ -15,7 +15,8 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 [Teaching Building 14](https://www.zju.edu.cn/_upload/tpl/03/6a/874/template874/images/Yuquan.pdf) of Yuquan Campus (or 玉泉校区外经贸楼 in Chinese) <br>
 38# Zheda Road, Xihu District, Hangzhou, Zhejiang, P.R. China 310027
 * **Email:** <br>
-lzcchen@zju.edu.cn
+lzcchen@zju.edu.cn <br>
+lzcchenzju@gmail.com
 
 # News
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
