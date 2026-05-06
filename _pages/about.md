@@ -47,7 +47,7 @@ lzcchenzju@gmail.com
 
 # Representative Publications
 1.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. *International Journal of Solids and Structures*, vol. 325, 113695, 2025. doi:10.1016/j.ijsolstr.2025.113695
-2.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 110077, 2025. doi:10.1016/j.ijmecsci.2025.110077
+2.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 110077, 2025. doi:10.1016/j.ijmecsci.2025.110077 <br>
 Please refer to [Publications](https://chainjackson.github.io/Chain.github.io//publications/) for more information
 
 # Academic Services
