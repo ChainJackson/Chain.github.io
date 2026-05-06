@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Lizichen Chen is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **Mathematical Mechanics**, **Multi-Physics Modelling**, and **Contact Mechanics**. He has published 15 papers in international journals with collaborators, including 13 as first or corresponding author in applied mathematics and mechanics journals such as *J. Mech. Phys. Solids*, *Int. J. Solids Struct.*, *Int. J. Mech. Sci.*, and *Proc. Roy. Soc. A*. He has also been granted 3 software copyrights. He has presided over the National Natural Science Foundation of China (NSFC) Basic Research Project for Young Students (PhD Candidates) (2025), and participated in the NSFC Major Program (2022). He was selected for the China Association for Science and Technology Young Elite Scientist Sponsorship Program (Doctoral Student Special Plan) (2025), the Qiushi Rising Star Program of Zhejiang University (2025). He has been awarded the Zhilun Xu Excellent Student of Mechanics Award from *the Chinese Society of Theoretical and Applied Mechanics* (CSTAM) (2024), the iGEM Best Model Award (2023), the Zichen Scholarship from *Chu Kochen Honors College* (2023), and the National Scholarship from *the Ministry of Education of PRC* (2025, 2023). He serves as a reviewer for journals such as *J. Mech. Phys. Solids* (2024), *Int. J. Mech. Sci.* (2025), and *Phys. Fluids* (2025). He has delivered keynote talks at international conferences, including ICCES (2025).
+Lizichen Chen is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **Mathematical Mechanics**, **Multi-Physics Modelling**, and **Contact Mechanics**. He has published 15 papers in international journals with collaborators, including 13 as first or corresponding author in applied mathematics and mechanics journals such as *J. Mech. Phys. Solids*, *Int. J. Solids Struct.*, *Int. J. Mech. Sci.*, and *Proc. Roy. Soc. A*. He has also been granted 3 software copyrights. He has presided over the National Natural Science Foundation of China (NSFC) Basic Research Project for Young Students (PhD Candidates) (2025), and participated in the NSFC Major Program (2022). He was selected for the China Association for Science and Technology Young Elite Scientist Sponsorship Program (Doctoral Student Special Plan) (2025), the Qiushi Rising Star Program of Zhejiang University (2025), and the Qushifeiying Program of Zhejiang University (2026). He has been awarded the Zhilun Xu Excellent Student of Mechanics Award from *the Chinese Society of Theoretical and Applied Mechanics* (CSTAM) (2024), the iGEM Best Model Award (2023), the Zichen Scholarship from *Chu Kochen Honors College, Zhejiang University* (2023), and the National Scholarship from *the Ministry of Education of PRC* (2025, 2023). He serves as a reviewer for journals such as *J. Mech. Phys. Solids*, *Int. J. Mech. Sci.*, and *Phys. Fluids*. He has delivered keynote talks at international conferences, including ICCES (2025).
 
 # Contact
 * **Address:** <br>
@@ -29,9 +29,10 @@ lzcchenzju@gmail.com
 * ZJU-China Team ranked Top 10 in iGEM 2023 (Undergraduate)
   * [Zhejiangdaxuebao](http://chainjackson.github.io/Chain.github.io/files/Zhejiangdaxuebao.pdf) and WeChat public account: ([ZJU](https://mp.weixin.qq.com/s/8qDXKrl9u2-eItqPqvAI5w) and [SAA](https://mp.weixin.qq.com/s/6mvYWUqJ7IlgojWjgcCM7w))
 
+
 # Education
-* Ph.D., Mechanics, Zhejiang University, Sept. 2024 -- Present (Advisors: Prof. Weiqiu Chen & Prof. C.W. Lim)
-* B.E. (with honors), Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024 (Advisor: Prof. Weiqiu Chen)
+* Ph.D., Mechanics, Zhejiang University, Sept. 2024 -- Present (Advisors: Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) & Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en))
+* B.E. (with honors), Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024 (Advisor: Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao))
 
 <!---
 # Academic experiences
@@ -47,15 +48,15 @@ lzcchenzju@gmail.com
 # Representative Publications
 1.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. *International Journal of Solids and Structures*, vol. 325, 113695, 2025. doi:10.1016/j.ijsolstr.2025.113695
 2.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. *International Journal of Mechanical Sciences*, vol. 290, 110077, 2025. doi:10.1016/j.ijmecsci.2025.110077
-
+Please refer to [Publications](https://chainjackson.github.io/Chain.github.io//publications/) for more information
 
 # Academic Services
 * **Reviewers for Scientific Journals:**
-  * Journal of the Mechanics and Physics of Solids (JMPS), Sept. 2024 -- Present
-  * International Journal of Mechanical Sciences (IJMS), Mar. 2025 -- Present
-  * Physics of Fluids (POF), Sept. 2025 -- Present
-  * Acta Mechanica Solida Sinica (AMSS), Apr. 2026 -- Present
-  * Chinese Journal of Solid Mechanics (CJSM), Apr. 2026 -- Present
+  * Journal of the Mechanics and Physics of Solids (JMPS)
+  * International Journal of Mechanical Sciences (IJMS)
+  * Physics of Fluids (POF)
+  * Acta Mechanica Solida Sinica (AMSS)
+  * Chinese Journal of Solid Mechanics (CJSM)
 
 # Research Projects
 1. Contact analysis of soft materials, supported by *the Qiushifeiying Program of Zhejiang University*, Oct. 2026 -- Oct. 2027, **Principal Investigator**, ¥ 115,000
@@ -63,4 +64,3 @@ lzcchenzju@gmail.com
 3. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, Jan. 2026 -- Jun. 2028, **Principal Investigator**, ¥ 90,000
 4. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
 5. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, **Participant**, ¥ 15,000,000
-
