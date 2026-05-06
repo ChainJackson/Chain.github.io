@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Research Interests
-Chen and his collaborators work on problems in **Mathematical Methods in Mechanics**, **Multi-Physics Modelling**, and **Contact Mechanics**.
+Lizichen Chen and his collaborators work on problems in **Mathematical Methods in Mechanics**, **Multi-Physics Modelling**, and **Contact Mechanics**.
 # Contact
 * **Address:** <br>
 Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.cn/english/2023/0509/c75921a2754909/page.psp) <br>
