@@ -19,6 +19,7 @@ lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
 # News
+* Congratulations! Prof. Weiqiu Chen and Prof. C.W. Lim have been elected as members of European Academy of Sciences and Arts (EASA)
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
 * "Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal* and *MathRN: Applications of Difference & Differential Equations (Topic)* [Dec. 2024 -- Feb. 2025]
 * Exclusive: From attempt to passion: CHEN Lizichen’s journey of scientific research at Zhejiang University <br>
