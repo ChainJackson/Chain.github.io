@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-* [Kolmogorov-Arnold Transformer Neural Operator(KATNO)](https://github.com/ChainJackson/Chain.github.io/blob/master/files/Kolmogorov-Arnold%20Transformer%20Neural%20Operator%20(KATNO).zip)
+* [Kolmogorov-Arnold Transformer Neural Operator(KATNO)](https://chainjackson.github.io/Chain.github.io/files/Kolmogorov-Arnold%20Transformer%20Neural%20Operator%20(KATNO).zip)
