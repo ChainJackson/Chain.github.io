@@ -19,7 +19,7 @@ lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
 # News
-* [Zhejiang University Super Mentoring Team]()
+* [Zhejiang University Super Mentoring Team](https://github.com/ChainJackson/Chain.github.io/blob/master/files/%E9%99%88%E4%BC%9F%E7%90%83_20260428.pdf)
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
 * "Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal* and *MathRN: Applications of Difference & Differential Equations (Topic)* [Dec. 2024 -- Feb. 2025]
 * Heartwarming: 35 Years On, This Zhejiang University Class Keeps the Donation Relay Going <br>
