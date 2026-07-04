@@ -54,7 +54,7 @@ lzcchenzju@gmail.com
 4. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
 5. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, **Participant**, ¥ 15,000,000
 
-<!--
+<!---
 # News
 * [Zhejiang University Super Mentoring Team](https://github.com/ChainJackson/Chain.github.io/blob/master/files/%E9%99%88%E4%BC%9F%E7%90%83_20260428.pdf)
 * "Dual Hamiltonian transformation and magnetoelectro-thermo-viscoelastic contact analysis", was listed on SSRN's Top 10 Downloads list for: *Difference & Differential Equations eJournal*, *MathRN: Applications of Difference & Differential Equations (Topic)*, and *Computational & Applied Mathematics eJournal* [Jan. 2025 -- Mar. 2025]
