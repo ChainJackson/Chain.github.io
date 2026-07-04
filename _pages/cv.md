@@ -37,7 +37,7 @@ redirect_from:
   * Chinese Journal of Solid Mechanics (CJSM), Apr. 2026 -- Present
 
 # Research Projects
-1. Contact analysis of soft materials, supported by *the Qiushifeiying Program of Zhejiang University*, Oct. 2026 -- Oct. 2027, **Principal Investigator**, ¥ 115,000
+1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, **Participant**, ¥ 200,000
 2. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 40,000
 3. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, Jan. 2026 -- Jun. 2028, **Principal Investigator**, ¥ 90,000
 4. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
