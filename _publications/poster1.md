@@ -2,7 +2,7 @@
 title: "Symplectic contact analysis of inhomogeneous media"
 collection: publications
 category: posters
-permalink: /publication/poster2
+permalink: /publication/poster1
 date: 2025-09-27
 venue: 'The 16th International Conference on Computational Methods'
 excerpt: ''
