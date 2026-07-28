@@ -14,7 +14,7 @@ paperurl: 'http://chainjackson.github.io/Chain.github.io/files/preprint1.pdf'
 --->
 
 ## Abstract
-Basic formulations in the Nambu-Routh mechanics are presented. The generalized Legendre transformation are proposed to formulate Nambu-Routh functions. Exterior differential forms are involved to enhance the convenience of derivation process.
+Basic formulations in the Nambu-Routh mechanics are presented. The generalized Legendre transformation is utilized to formulate Nambu-Routh functions. Exterior differential forms are involved to enhance the convenience of derivation process.
 
 ## Keywords
 Nambu-Routh mechanics; generalized Legendre transformation
