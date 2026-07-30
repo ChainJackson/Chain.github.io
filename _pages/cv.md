@@ -37,6 +37,7 @@ redirect_from:
   * Physics of Fluids (POF), Sept. 2025 -- Present
   * Acta Mechanica Solida Sinica (AMSS), Apr. 2026 -- Present
   * Chinese Journal of Solid Mechanics (CJSM), Apr. 2026 -- Present
+  * Journal of Sound and Vibration (JSV), Jul. 2026 -- Present
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, **Participant**, ¥ 200,000
