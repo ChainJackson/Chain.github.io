@@ -42,7 +42,7 @@ lzcchenzju@gmail.com
 [Please refer to Google Scholar for more information](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=RZeB-dYAAAAJ)
 
 # Academic Services
-* **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (JMPS); International Journal of Mechanical Sciences (IJMS); Physics of Fluids (POF); Acta Mechanica Solida Sinica (AMSS); Chinese Journal of Solid Mechanics (CJSM)
+* **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (JMPS); International Journal of Mechanical Sciences (IJMS); Physics of Fluids (POF); Acta Mechanica Solida Sinica (AMSS); Chinese Journal of Solid Mechanics (CJSM); Journal of Sound and Vibration (JSV)
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, **Participant**, ¥ 200,000
