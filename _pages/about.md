@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Update of this website has stopped since Aug. 2026**
 
 Lizichen Chen is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **Multiphysics Modelling**, **Contact Mechanics**, and **Fracture Mechanics**. He has published 13 papers with collaborators in applied mathematics and mechanics journals, including *J. Mech. Phys. Solids*, *Proc. R. Soc. A*, and *Int. J. Solids Struct.* He has presided over the National Natural Science Foundation of China (NSFC) Basic Research Project for Young Students (PhD Candidates), and participated in the NSFC Major Program and the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems. He was selected for the China Association for Science and Technology Young Elite Scientist Sponsorship Program (Doctoral Student Special Plan), and the Qiushi Rising Star Program of Zhejiang University. He has been awarded the Zhilun Xu Excellent Student of Mechanics Award from the Chinese Society of Theoretical and Applied Mechanics (CSTAM), the National Scholarship from the Ministry of Education of PRC, the Zichen Scholarship from Chu Kochen Honors College, Zhejiang University, and the iGEM Best Model Award. He serves as a reviewer for journals such as *J. Mech. Phys. Solids*, *Int. J. Mech. Sci.*, and *Phys. Fluids*. He has delivered keynote talks at international conferences, including ICCES (2025).
 
@@ -42,7 +43,7 @@ lzcchenzju@gmail.com
 [Please refer to Google Scholar for more information](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=RZeB-dYAAAAJ)
 
 # Academic Services
-* **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (JMPS); International Journal of Mechanical Sciences (IJMS); Physics of Fluids (POF); Acta Mechanica Solida Sinica (AMSS); Chinese Journal of Solid Mechanics (CJSM); Journal of Sound and Vibration (JSV)
+* **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (2024); International Journal of Mechanical Sciences (2025); Physics of Fluids (2025); Acta Mechanica Solida Sinica (2026); Chinese Journal of Solid Mechanics (2026); Journal of Sound and Vibration (2026)
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, **Participant**, ¥ 200,000
