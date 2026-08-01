@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-**Update of this website has stopped since Aug. 2026**
-
 # Education
 * Ph.D., Mechanics, Zhejiang University, Sept. 2024 -- Present (Supervisors: Prof. Weiqiu Chen & Prof. C.W. Lim)
 * B.E. (with honors), Engineering Mechanics ([Enrollment plan targets basics](https://english.www.gov.cn/statecouncil/ministries/202001/16/content_WS5e1fbffcc6d0891feec02516.html)), Zhejiang University, Sept. 2020 -- Jun. 2024 (Supervisor: Prof. Weiqiu Chen)
