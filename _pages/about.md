@@ -45,11 +45,11 @@ lzcchenzju@gmail.com
 * **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (2024); International Journal of Mechanical Sciences (2025); Physics of Fluids (2025); Acta Mechanica Solida Sinica (2026); Chinese Journal of Solid Mechanics (2026); Journal of Sound and Vibration (2026)
 
 # Research Projects
-1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, **Participant**, ¥ 200,000
+1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, Participant, ¥ 200,000
 2. Symplectic contact analysis, supported by *the China Association for Science and Technology Young Elite Scientist Sponsorship Program (doctoral student special plan)*, Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 40,000
 3. Material characterization via contact analysis, supported by *the Qiushi Rising Star Program of Zhejiang University*, Jan. 2026 -- Jun. 2028, **Principal Investigator**, ¥ 90,000
 4. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 
-5. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, **Participant**, ¥ 15,000,000
+5. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, Participant, ¥ 15,000,000
 
 <!---
 # News
