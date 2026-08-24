@@ -11,8 +11,8 @@ main:
 #  - title: "Research"
 #    url: /portfolio/
     
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "People"
 #    url: /talks/    
