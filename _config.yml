@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-5289-9772"
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : "https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6129258"
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Lizichen-Chen?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58996964600"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ChainJackson"
+  github           : #"ChainJackson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
