@@ -34,6 +34,8 @@ redirect_from:
 
 # Academic Services
 * **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (2024); International Journal of Mechanical Sciences (2025); Physics of Fluids (2025); Acta Mechanica Solida Sinica (2026); Chinese Journal of Solid Mechanics (2026); Journal of Sound and Vibration (2026)
+* **Conference Services:**
+  * Session Chair of Symposium 4 (Session 6) of the 32nd International Conference on Computational \& Experimental Engineering and Science (ICCES2026)
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, Participant, ¥ 200,000
