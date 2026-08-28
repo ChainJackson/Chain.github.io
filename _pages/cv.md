@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -26,9 +26,9 @@ redirect_from:
 
 # Representative Publications
 1.  **L.Z.C. Chen**, Y.K. Du, R.Q. Xu, M. Destrade, C.W. Lim, and W.Q. Chen. Fracture and crack-face stability of pre-deformed soft electroactive solids. ***Journal of the Mechanics and Physics of Solids***, vol. 216, 106772, 2026. doi:[10.1016/j.jmps.2026.106772](https://doi.org/10.1016/j.jmps.2026.106772)
-2.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. ***International Journal of Solids and Structures***, vol. 325, 113695, 2025. doi:[10.1016/j.ijsolstr.2025.113695](https://doi.org/10.1016/j.ijsolstr.2025.113695)
-3.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. ***International Journal of Mechanical Sciences***, vol. 290, 110077, 2025. doi:[10.1016/j.ijmecsci.2025.110077](https://doi.org/10.1016/j.ijmecsci.2025.110077)
-4.	**L.Z.C. Chen** and W.Q. Chen. Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane. ***Proceedings of the Royal Society A***, vol. 481, no. 2306, 2025. doi:[10.1098/rspa.2024.0591](https://doi.org/10.1098/rspa.2024.0591)
+2.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. ***International Journal of Solids and Structures***, vol. 325, 113695, 2025. doi:[10.1016/j.ijsolstr.2025.113695](https://doi.org/10.1016/j.ijsolstr.2025.113695) <font color=Blue>\[Symplectic contact analysis\]</font>
+3.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. ***International Journal of Mechanical Sciences***, vol. 290, 110077, 2025. doi:[10.1016/j.ijmecsci.2025.110077](https://doi.org/10.1016/j.ijmecsci.2025.110077) <font color=Blue>\[Symplectic contact analysis\]</font>
+4.	**L.Z.C. Chen** and W.Q. Chen. Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane. ***Proceedings of the Royal Society A***, vol. 481, no. 2306, 2025. doi:[10.1098/rspa.2024.0591](https://doi.org/10.1098/rspa.2024.0591) <font color=Blue>\[Symplectic contact analysis\]</font>
 
 [Please refer to Google Scholar for more information](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=RZeB-dYAAAAJ)
 
