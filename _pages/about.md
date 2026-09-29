@@ -34,7 +34,7 @@ lzcchenzju@gmail.com
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), *Chu Kochen Honors College*, 2023
 
 # Representative Publications
-1.  **L.Z.C. Chen**, Y.K. Du, Y.F. Wang, Z.F. Li, Z.H., Z.Z. He, R.Q. Xu, M. Destrade, G.F. Wang, C.W. Lim, W.Q. Chen. Nonlinear thermoelastic contact between a rigid indenter and a wavy surface. ***XXX***, vol. XXX, XXX, 2026. doi:[XXX](https://doi.org/XXX) **<font color=Blue>[Potential Theory Method]</font>**
+1.  **L.Z.C. Chen**, Y.K. Du, Y.F. Wang, Z.F. Li, Z.H., Z.Z. He, R.Q. Xu, M. Destrade, G.F. Wang, C.W. Lim, W.Q. Chen. Nonlinear thermoelastic contact between a rigid indenter and a wavy surface. ***Journal of the Mechanics and Physics of Solids***, vol. XXX, XXX, 2026. doi:[XXX](https://doi.org/XXX) **<font color=Blue>[Potential Theory Method]</font>**
 2.  **L.Z.C. Chen**, Y.K. Du, R.Q. Xu, M. Destrade, C.W. Lim, and W.Q. Chen. Fracture and crack-face stability of pre-deformed soft electroactive solids. ***Journal of the Mechanics and Physics of Solids***, vol. 216, 106772, 2026. doi:[10.1016/j.jmps.2026.106772](https://doi.org/10.1016/j.jmps.2026.106772) **<font color=Blue>[Potential Theory Method]</font>**
 3.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. ***International Journal of Solids and Structures***, vol. 325, 113695, 2025. doi:[10.1016/j.ijsolstr.2025.113695](https://doi.org/10.1016/j.ijsolstr.2025.113695) **<font color=Blue>[Symplectic Contact Analysis]</font>**
 4.	**L.Z.C. Chen**, C.W. Lim, and W.Q. Chen. Dual Hamiltonian transformation and magneto-electro-thermo-viscoelastic contact analysis. ***International Journal of Mechanical Sciences***, vol. 290, 110077, 2025. doi:[10.1016/j.ijmecsci.2025.110077](https://doi.org/10.1016/j.ijmecsci.2025.110077) **<font color=Blue>[Symplectic Contact Analysis]</font>**
@@ -45,7 +45,7 @@ lzcchenzju@gmail.com
 # Academic Services
 * **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids (2024); International Journal of Mechanical Sciences (2025); Physics of Fluids (2025); Acta Mechanica Solida Sinica (2026); Chinese Journal of Solid Mechanics (2026); Journal of Sound and Vibration (2026)
 * **Conference Services:**
-  * Session Chair of Symposium 4 (Session 6) of the 32nd International Conference on Computational \& Experimental Engineering and Science (ICCES2026)
+  * Session Chair of Symposium 4 (Session 6) of the 32nd International Conference on Computational & Experimental Engineering and Science (ICCES2026)
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, Participant, ¥ 200,000
