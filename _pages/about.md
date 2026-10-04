@@ -20,8 +20,8 @@ lzcchenzju@gmail.com
 
 # Research
 * **Symplectic Contact Analysis** <br>
-We established a symplectic framework for contact analysis, proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation. This framework enables the analytical solution of contact problems within finite domains, including cases involving inhomogeneous media.
-![Quasi-Hamiltonian Operators and Transformations](https://static.jyshare.com/images/runoob-logo.png)
+We established a symplectic framework for contact analysis, proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation. This framework enables the analytical solution of contact problems within finite domains, including cases involving inhomogeneous media. <br>
+![Quasi-Hamiltonian Operators and Transforms](http://chainjackson.github.io/Chain.github.io/images/classification.png "Quasi-Hamiltonian Operators and Transforms")
 * **Potential Theory**
 
 
