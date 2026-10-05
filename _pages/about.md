@@ -20,8 +20,9 @@ lzcchenzju@gmail.com
 
 # Research
 * **Symplectic Contact Analysis** <br>
-We established a symplectic framework for contact analysis, proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation. This framework enables the analytical solution of contact problems within finite domains, including cases involving inhomogeneous media. <br>
-![Quasi-Hamiltonian Operators and Transforms](http://chainjackson.github.io/Chain.github.io/images/classification.png "Quasi-Hamiltonian Operators and Transforms")
+We established a symplectic framework for contact analysis, proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation. This framework enables the analytical solution of contact problems within finite domains, including cases involving inhomogeneous media.
+* **Asymptotic Analysis** <br>
+Using asymptotic analysis, we also derived the first-, second-, and higher-order analytical solutions for weakly nonlinear elastic contact, fracture, and puncture problems.
 
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
