@@ -22,9 +22,9 @@ lzcchenzju@gmail.com
 * **Symplectic Contact Analysis** <br>
 Chen and collaborators established a symplectic framework for contact analysis, proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation. This framework enables the analytical solution of contact problems within finite domains, including cases involving inhomogeneous media.
 * **Asymptotic Analysis** <br>
-Using asymptotic analysis and potential theory method, Chen and collaborator also derived the first-, second-, and higher-order analytical solutions for weakly nonlinear elastic contact, fracture, and puncture problems.
+Using asymptotic analysis, potential theory method, and Stroh formalism, Chen and collaborator also derived the first-, second-, and higher-order analytical solutions for weakly nonlinear elastic contact, fracture, and puncture problems. Besides, the surface morphology was also analyzed.
 * **Computational Mechanics and Neural Operators** <br>
-
+Chen and collaborators developed computational contact algorithms and neural operators to solve the inverse contact problems.
 
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
