@@ -19,9 +19,9 @@ lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
 # Research
-* **Symplectic Contact Analysis**
-* **Asymptotic Analysis**
-* **Computational Mechanics and Neural Operators**
+* Symplectic Contact Analysis
+* Asymptotic Analysis
+* Computational Mechanics and Neural Operators
 
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
