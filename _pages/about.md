@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Lizichen Chen[📄](http://chainjackson.github.io/Chain.github.io/files/CV_Lizichen%20CHEN_Latex.pdf) is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **multiphysics coupling**, **contact and fracture mechanics**, and **mechanics and physics of surfaces and interfaces**. He has published 13 papers with collaborators in applied mathematics and mechanics journals, including *J. Mech. Phys. Solids*. He has presided over the National Natural Science Foundation of China (NSFC) Basic Research Project for Young Students (PhD Candidates), and participated in the NSFC Major Program. He was selected for the China Association for Science and Technology Young Elite Scientist Sponsorship Program (Doctoral Student Special Plan), and the Qiushi Rising Star Program of Zhejiang University. He has been awarded the Zhilun Xu Excellent Student of Mechanics Award from the Chinese Society of Theoretical and Applied Mechanics (CSTAM), the National Scholarship from the Ministry of Education of PRC, the Zichen Scholarship from Chu Kochen Honors College, Zhejiang University, and the iGEM Best Model Award. He serves as a reviewer for journals such as *J. Mech. Phys. Solids* and *J. Sound Vib.* He has delivered invited talks at international conferences, including ICCES.
+Lizichen Chen[📄](http://chainjackson.github.io/Chain.github.io/files/CV_Lizichen%20CHEN_Latex.pdf) is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **multiphysics coupling**, **contact and fracture mechanics**, and **mechanics and physics of surfaces and interfaces**. He has published 13 papers with collaborators in applied mathematics and mechanics journals, including *J. Mech. Phys. Solids*. He has served as principal investigator or participant in three projects, including the NSFC Major Program and the NSFC Basic Research Project for Young Students. He was selected for the China Association for Science and Technology Young Elite Scientist Sponsorship Program, and the Qiushi Rising Star Program of Zhejiang University. He has been awarded the Zhilun Xu Excellent Student of Mechanics Award from CSTAM, the National Scholarship from the MOE of PRC, the Zichen Scholarship from CKC Honors College, Zhejiang University. He serves as a reviewer for journals such as *J. Mech. Phys. Solids* and *J. Sound Vib.* He has delivered invited talks at international conferences, including ICCES.
 
 # Contact
 * **Address:** <br>
@@ -19,12 +19,9 @@ lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
 # Research
-* **Symplectic Contact Analysis** <br>
-Chen and collaborators established a symplectic framework for contact analysis, proposed and proved that the quasi-Hamiltonian operator and its dual operator conform the dual Hamiltonian transformation. This framework enables the analytical solution of contact problems within finite domains, including cases involving inhomogeneous media.
-* **Asymptotic Analysis** <br>
-Using asymptotic analysis, potential theory method, and Stroh formalism, Chen and collaborator also derived the first-, second-, and higher-order analytical solutions for weakly nonlinear elastic contact, fracture, and puncture problems. Besides, the surface morphology was also analyzed.
-* **Computational Mechanics and Neural Operators** <br>
-Chen and collaborators developed computational contact algorithms and neural operators to solve the inverse contact problems.
+* **Symplectic Contact Analysis**
+* **Asymptotic Analysis**
+* **Computational Mechanics and Neural Operators**
 
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
