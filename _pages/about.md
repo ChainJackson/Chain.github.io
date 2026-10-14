@@ -18,6 +18,7 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
+<!--
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
 * [Zhejiang University Super Mentoring Team](http://chainjackson.github.io/Chain.github.io/files/%E9%99%88%E4%BC%9F%E7%90%83_20260428.pdf)
@@ -29,3 +30,4 @@ lzcchenzju@gmail.com
   * [China National Radio](https://edu.cnr.cn/eduzt/2023jyzs/zxjy/20240418/t20240418_526671040.shtml), [ZJU micro-video](https://zdzsc.zju.edu.cn/2024/0418/c24412a2902718/page.htm), [Bilibili](https://www.bilibili.com/video/BV1ux421m735/?spm_id_from=333.999.0.0), [Rednote](http://xhslink.com/o/5QPBqQQKgXD), [ZJU official WeChat public account](https://mp.weixin.qq.com/s/c-xqX70BH4ymQNy3fSF6uA), [Chu Kochen Honors College Wechat public account](https://mp.weixin.qq.com/s?__biz=MjM5ODE5NzY0Nw==&mid=2651094067&idx=1&sn=947906fcc67a67824ff33fbfb826513f&chksm=bcb0f3e6d79f23c1dd3adf4f39be8e459be8ec7f255605560406f108e76ba6d02329873a2381&mpshare=1&srcid=0525cbBb5DNBR12hqnisyHk0&sharer_shareinfo=edcb8ba70a32eee91c713a874178163d&sharer_shareinfo_first=3ded1dca8e2aa73638a3e75c8e3bbfd7&from=timeline&scene=2&subscene=2&sessionid=1780394725&clicktime=1780394887&enterid=1780394887&ascene=45&fasttmpl_type=0&fasttmpl_fullversion=8284509-zh_CN-zip&fasttmpl_flag=0&realreporttime=1780394887302&devicetype=android-31&version=28004850&nettype=WIFI&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQRJmLTxbQkHLNNKviyuYG9BLhAQIE97dBBAEAAAAAAIWfI83gu2QAAAAOpnltbLcz9gKNyK89dVj0CiTAN2GInFItnvncG23In8DTSps1PGRgb%2FUznHrt4MdRIJY0jJfdDvhU6cwfrt5BysmMsqIUG8ZBGalxSvIDJiE%2Bfd11jFvhyZqzHRWulrF2rKrYrHHNdiEn4fp0E%2B5zNUjOSdbcYkR8t4xcuhV4mwbOPbe33VuoRQ3ERY%2B97MmpxbkL8AUUyLJywgCzmXzH6498t%2Bm%2BUyWTxjDF5r7rKtyHgnN2LrOCzu763PzR9XctkN6cRfTyiD3t7A%3D%3D&pass_ticket=gKXl8Im%2FdroCsFNtoiy1iIop26%2FpFnR4%2FOTzPxGf1pE92UGPAe3%2BsBfxitfZ6ovZ&wx_header=3), [ZJU-CKC1](https://weixin.qq.com/sph/AsxPi35c1P), and [ZJU-CKC2](https://weixin.qq.com/sph/ABF74oO8RM)
 * ZJU-China Team ranked Top 10 in iGEM 2023 (Undergraduate)
   * [Zhejiangdaxuebao](http://chainjackson.github.io/Chain.github.io/files/Zhejiangdaxuebao.pdf) and WeChat public account: ([ZJU](https://mp.weixin.qq.com/s/8qDXKrl9u2-eItqPqvAI5w) and [SAA](https://mp.weixin.qq.com/s/6mvYWUqJ7IlgojWjgcCM7w))
+-->
