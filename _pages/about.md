@@ -18,6 +18,11 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
+# Highlights
+* Symplectic contact analysis
+* Asymptotic analysis for contact and fracture mechanics
+* Computational contact mechanics
+
 <!--
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
