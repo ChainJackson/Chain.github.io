@@ -18,11 +18,6 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
-# Research
-* Symplectic Contact Analysis
-* Asymptotic Analysis
-* Computational Mechanics
-
 # Media coverage
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
 * [Zhejiang University Super Mentoring Team](http://chainjackson.github.io/Chain.github.io/files/%E9%99%88%E4%BC%9F%E7%90%83_20260428.pdf)
