@@ -32,7 +32,7 @@ redirect_from:
 [Please refer to Google Scholar for more information](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=RZeB-dYAAAAJ)
 
 # Academic Services
-* **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids; Journal of Sound and Vibration; International Journal of Mechanical Sciences; Physics of Fluids; Acta Mechanica Solida Sinica; Chinese Journal of Solid Mechanics
+* **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids; Journal of Sound and Vibration; International Journal of Mechanical Sciences; Physics of Fluids; Scientific Reports; Acta Mechanica Solida Sinica; Chinese Journal of Solid Mechanics
 * **Conference Services:**
   * Session Chair of Symposium 4 of ICCES2026
 
