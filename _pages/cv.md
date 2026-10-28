@@ -19,14 +19,12 @@ redirect_from:
 --->
 
 # Selected Honors and Awards
-* Young Elite Scientist Sponsorship Program, *China Association for Science and Technology*, 2025
+* Young Elite Scientist Sponsorship Program (PhD Candidate), *China Association for Science and Technology*, 2025
 * Qiushi Rising Star Program, *Zhejiang University*, 2025
 * Zhilun Xu Excellent Student of Mechanics, *Chinese Society of Theoretical and Applied Mechanics*, 2024
-
-<!--- 
 * National Scholarship, *Ministry of Education of the People's Republic of China*, 2026 & 2025 & 2023
 * [Zichen Scholarship](https://www.sohu.com/a/747012275_121124334), *Chu Kochen Honors College*, 2023
---->
+
 
 # Representative Publications
 1.  **<u>L.Z.C. Chen</u>**, Y.K. Du, Y.F. Wang, Z.F. Li, Z.H. Du, Z.Z. He, R.Q. Xu, M. Destrade, G.F. Wang, C.W. Lim, and W.Q. Chen. Nonlinear thermoelastic contact between a rigid indenter and a wavy surface. ***Journal of the Mechanics and Physics of Solids***, vol. XXX, XXX, 2026. doi:[XXX](https://doi.org/XXX) **<font color=Blue>[Potential Theory Method]</font>**
