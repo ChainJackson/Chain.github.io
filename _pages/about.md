@@ -19,9 +19,9 @@ lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
 # Highlights
-* Symplectic contact analysis
-* Asymptotic analysis for contact and fracture mechanics
-* Computational contact mechanics
+* Symplectic contact analysis; Dual Hamiltonian transformation
+* Asymptotic analysis for contact and fracture mechanics; Potential theory method
+* Computational contact mechanics; High-throughput material characterization
 
 <!--
 # Media coverage
