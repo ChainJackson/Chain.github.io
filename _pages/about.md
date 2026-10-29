@@ -18,10 +18,10 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
-# Highlights
-* Symplectic contact analysis; Dual Hamiltonian transformation
-* Asymptotic analysis for contact and fracture mechanics; Potential theory method
-* Computational contact mechanics; High-throughput material characterization
+# Highlights and Keywords
+* Symplectic contact analysis (dual Hamiltonian transformation)
+* Asymptotic analysis for contact and fracture mechanics (potential theory method)
+* Computational contact mechanics (high-throughput material characterization)
 
 <!--
 # Media coverage
