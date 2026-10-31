@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* Ph.D., Mechanics, Zhejiang University, Sept. 2024 -- Present (Supervisors: Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) & Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en))
-* B.E. (with honors), Engineering Mechanics, Zhejiang University, Sept. 2020 -- Jun. 2024 (Supervisor: Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao))
+* Ph.D., Mechanics, Zhejiang University, Sept. 2024 -- Present (Supervisors: [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) & [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en))
+* B.E. (with honors), Engineering Mechanics, Zhejiang University, Sept. 2020 -- Jun. 2024 (Supervisor: [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao))
 
 <!---
 # Academic experiences
