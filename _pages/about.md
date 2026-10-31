@@ -18,11 +18,10 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
-# Highlights and Keywords
+# Keywords
 * Symplectic contact analysis
 * Asymptotic analysis for contact and fracture mechanics
 * Computational contact mechanics
-
 
 # Media coverage
 * [Launch Event of the Center of Excellence for Interdisciplinary Talent Cultivation in Digital-Intelligent Mechanics](https://mp.weixin.qq.com/s/4tIndO9v0_igg35yaGnHyA)
