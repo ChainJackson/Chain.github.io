@@ -9,6 +9,10 @@ redirect_from:
 
 Lizichen Chen[📄](http://chainjackson.github.io/Chain.github.io/files/CV_Lizichen%20CHEN_Latex.pdf) is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **multiphysics coupling**, **contact and fracture mechanics**, and **mechanics and physics of surfaces and interfaces**. He has published 13 papers with collaborators in applied mathematics and mechanics journals, including *J. Mech. Phys. Solids*. He has served as principal investigator or participant in three projects, including the NSFC Major Program and the NSFC Basic Research Project for Young Students. He was awarded the Young Elite Scientist Sponsorship Program (PhD Candidate) from CAST, the Qiushi Rising Star Program from Zhejiang University, and the Zhilun Xu Excellent Student of Mechanics Award from CSTAM. He serves as a reviewer for journals such as *J. Mech. Phys. Solids*. He has delivered invited talks at international conferences, including ICCES.
 
+* Symplectic contact analysis
+* Asymptotic analysis for contact and fracture mechanics
+* Computational contact mechanics
+
 # Contact
 * **Address:** <br>
 Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.cn/english/2023/0509/c75921a2754909/page.psp) <br>
@@ -18,12 +22,7 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
-# Keywords
-* Symplectic contact analysis
-* Asymptotic analysis for contact and fracture mechanics
-* Computational contact mechanics
-
-# Media coverage
+# News
 * [Launch Event of the Center of Excellence for Interdisciplinary Talent Cultivation in Digital-Intelligent Mechanics](https://mp.weixin.qq.com/s/4tIndO9v0_igg35yaGnHyA)
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
 * [Zhejiang University Super Mentoring Team](http://chainjackson.github.io/Chain.github.io/files/%E9%99%88%E4%BC%9F%E7%90%83_20260428.pdf)
