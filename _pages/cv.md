@@ -23,6 +23,8 @@ redirect_from:
 * Qiushi Rising Star Program, *Zhejiang University*, 2025
 * Zhilun Xu Excellent Student of Mechanics, *Chinese Society of Theoretical and Applied Mechanics*, 2024
 * National Scholarship, *Ministry of Education of the People's Republic of China*, 2026 & 2025 & 2023
+* iGEM Best Model Award, *iGEM Executive Judging Committee*, 2023
+* Zichen Scholarship, *Chu Kochen Honors College of Zhejiang University*, 2023
 
 
 # Representative Publications
