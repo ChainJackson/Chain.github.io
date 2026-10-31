@@ -19,11 +19,11 @@ lzcchen@zju.edu.cn <br>
 lzcchenzju@gmail.com
 
 # Highlights and Keywords
-* Symplectic contact analysis (dual Hamiltonian transformation; finite-sized specimens)
-* Asymptotic analysis for contact and fracture mechanics (potential theory method; second-order elasticity; higher-order Hamiltonian formalism)
-* Computational contact mechanics (high-throughput material characterization; inverse problem)
+* Symplectic contact analysis
+* Asymptotic analysis for contact and fracture mechanics
+* Computational contact mechanics
 
-<!---
+
 # Media coverage
 * [Launch Event of the Center of Excellence for Interdisciplinary Talent Cultivation in Digital-Intelligent Mechanics](https://mp.weixin.qq.com/s/4tIndO9v0_igg35yaGnHyA)
 * [Matriculation Ceremony of ZJU_SAA2026](https://mp.weixin.qq.com/s/2S8VBzmy4CxH0pQUtvDH2A)
@@ -37,4 +37,3 @@ lzcchenzju@gmail.com
 * [Zichen Scholarship Symposium](https://www.sohu.com/a/747012275_121124334)
 * ZJU-China Team ranked Top 10 in iGEM 2023 (Undergraduate)
   * [Zhejiangdaxuebao](http://chainjackson.github.io/Chain.github.io/files/Zhejiangdaxuebao.pdf) and WeChat public account: ([ZJU](https://mp.weixin.qq.com/s/8qDXKrl9u2-eItqPqvAI5w) and [SAA](https://mp.weixin.qq.com/s/6mvYWUqJ7IlgojWjgcCM7w))
---->
