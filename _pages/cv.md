@@ -43,8 +43,8 @@ redirect_from:
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, Participant, ¥ 200,000
-2. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 **<font color="#8B0000">[NSFC Basic Research Project for Young Students(国家自然科学基金青年学生基础研究项目)]</font>**
-3. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, Participant, ¥ 15,000,000
+2. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 **<font color="#8B0000">[Basic Research Project for Young Students (青年学生基础研究项目)]</font>**
+3. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, Participant, ¥ 15,000,000 **<font color="#8B0000">[Major Program (重大项目)]</font>**
 
 <!--
 ## Publications (Papers & Conferences & Software)
