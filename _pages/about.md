@@ -15,7 +15,6 @@ My research keywords mainly include: <br>
 * Computational contact mechanics
 * Inverse contact analysis
 * Robotic tactile sensing
-* Biomechanics
 
 # Contact
 * **Address:** <br>
