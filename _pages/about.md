@@ -13,6 +13,7 @@ My research keywords mainly include: <br>
 * Symplectic contact analysis
 * Asymptotic analysis for contact and fracture mechanics
 * Computational contact mechanics
+* Inverse contact analysis
 * Robotic tactile sensing
 * Biomechanics
 
