@@ -13,7 +13,7 @@ My research keywords mainly include: <br>
 * Symplectic contact analysis (接触力学辛形式)
 * Asymptotic analysis for contact and fracture mechanics (接触/断裂力学渐近分析)
 * Computational contact mechanics (计算接触力学)
-* Inverse contact analysis (接触反问题分析)
+* Inverse contact analysis (接触力学反问题)
 * Nanoimprint lithography (纳米压印)
 * Robotic tactile sensing (机器触觉传感)
 
