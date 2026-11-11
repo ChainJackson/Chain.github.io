@@ -27,11 +27,9 @@ Alternate: lzcchenzju [at] gmail.com
 * Tactile perception for robots (机器触觉感知)
 
 # News
-<details>
-  <summary>Expand to view the full list</summary>
-
-  <div style="max-height: 240px; overflow-y: auto; padding-right: 8px;">
-    1. JMPS<br>
-    2. JMPS<br>
-  </div>
-</details>
+<div style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
+  这里是很长的内容……
+  第一段……
+  第二段……
+  ...
+</div>
