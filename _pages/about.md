@@ -15,7 +15,8 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 [Teaching Building 14](https://www.zju.edu.cn/_upload/tpl/03/6a/874/template874/images/Yuquan.pdf) of Yuquan Campus (or 玉泉校区外经贸楼 in Chinese) <br>
 38# Zheda Road, Xihu District, Hangzhou, Zhejiang, P.R. China 310027
 * **Email:** <br>
-Primary: lzcchen [at] zju.edu.cn | Alternate: lzcchenzju [at] gmail.com
+Primary: lzcchen [at] zju.edu.cn <br>
+Alternate: lzcchenzju [at] gmail.com
 
 # Research
 **Tactile Perception and Surface/Interface Intelligence (接触感知与表界面智能)**:
