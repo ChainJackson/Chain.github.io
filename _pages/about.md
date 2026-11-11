@@ -11,7 +11,7 @@ Lizichen Chen[📄](http://chainjackson.github.io/Chain.github.io/files/CV_Lizic
 <br> <br>
 I would like to express my sincere gratitude to the following collaborators for their generous and invaluable assistance. <br>
 * Advisors: Weiqiu Chen (ZJU); C.W. Lim (CityUHK); Michel Destrade (NUI Galway); Gangfeng Wang (XJTU); Rongqiao Xu (ZJU) ... <br>
-* Labmates: Yangkun Du; Yafei Wang; Zonghao Li; Tao Yang; Yixin Zhou ...
+* Labmates: Yangkun Du (ZJU); Yafei Wang (HIT); Zonghao Li (ZJU); Tao Yang (NUAA); Yixin Zhou (GDUT) ...
 
 # Contact
 * **Address:** <br>
