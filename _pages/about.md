@@ -27,11 +27,10 @@ Primary: lzcchen [at] zju.edu.cn | Alternate: lzcchenzju [at] gmail.com
 
 # News
 <details>
-  <summary>展开查看完整列表</summary>
+  <summary>Expand to view the full list</summary>
 
   <div style="max-height: 240px; overflow-y: auto; padding-right: 8px;">
-    1. 条目一<br>
-    2. 条目二<br>
-    ……
+    1. JMPS<br>
+    2. JMPS<br>
   </div>
 </details>
