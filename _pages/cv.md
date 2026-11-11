@@ -18,7 +18,7 @@ redirect_from:
 * 
 --->
 
-# Selected Honors and Awards
+# Honors and Awards
 * Young Elite Scientist Sponsorship Program (PhD Candidate), *China Association for Science and Technology*, 2025
 * Qiushi Rising Star Program, *Zhejiang University*, 2025
 * Zhilun Xu Excellent Student of Mechanics, *Chinese Society of Theoretical and Applied Mechanics*, 2024
