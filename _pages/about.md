@@ -1,4 +1,3 @@
-<img width="424" height="81" alt="image" src="https://github.com/user-attachments/assets/d07ec8b7-8989-4550-a61d-e3e7670d6313" />---
 permalink: /
 title: ""
 author_profile: true
@@ -18,8 +17,20 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 Primary: lzcchen [at] zju.edu.cn | Alternate: lzcchenzju [at] gmail.com
 
 # Research
-**Tactile Perception and Surface/Interface Intelligence (接触感知与表界面智能)**
-* Asymptotic contact analysis (接触力学渐近分析)
+**Tactile Perception and Surface/Interface Intelligence (接触感知与表界面智能)**:
 * Symplectic contact analysis (接触力学辛形式)
+* Asymptotic contact analysis (接触力学渐近分析)
+* Inverse problems in contact mechanics (接触力学反问题)
+* Mechanics of puncture and fracture (穿刺与断裂力学)
+* Tactile perception for robots (机器触觉感知)
 
 # News
+<details>
+  <summary>展开查看完整列表</summary>
+
+  <div style="max-height: 240px; overflow-y: auto; padding-right: 8px;">
+    1. 条目一<br>
+    2. 条目二<br>
+    ……
+  </div>
+</details>
