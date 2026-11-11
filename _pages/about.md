@@ -37,6 +37,6 @@ Alternate: lzcchenzju [at] gmail.com
   [May 2025]  在ICCES 2025分会场作主旨报告 (Keynote Talk) <br>
   [Dec. 2024] 获得中国力学学会徐芝纶力学优秀学生奖 <br>
   [Sept. 2024]受邀担任期刊<i>Journal of the Mechanics and Physics of Solids</i>审稿人 <br>
-  [May 2024]  浙江大学官方公众号报道个人事迹 <br>
+  [May 2024]  个人事迹受浙江大学官方公众号报道 <br>
   [Nov. 2023] 祝贺ZJU-China 团队获得iGEM Top 10, Gold Medal, Best Model Award等奖项 <br>
 </div>
