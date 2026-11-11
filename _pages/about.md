@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 Lizichen Chen[📄](http://chainjackson.github.io/Chain.github.io/files/CV_Lizichen%20CHEN_Latex.pdf) is a Ph.D. student in Department of Engineering Mechanics, Zhejiang University, supervised by Prof. [Weiqiu Chen](https://scholar.google.com/citations?user=VJFMmQMAAAAJ&hl=en&oi=ao) and Prof. [C.W. Lim](https://scholar.google.com/citations?user=50FxROwAAAAJ&hl=en). Chen received his B.E. degrees from Zhejiang University, China, in 2024. His research interests include **multiphysics coupling**, **contact mechanics**, **fracture mechanics**, and **surface physics**. He has published 14 papers with collaborators in applied mathematics and mechanics journals, including *J. Mech. Phys. Solids*, *Int. J. Solids Struct.*, and *Proc. R. Soc. A*. He has served as principal investigator or participant in three projects, including the NSFC Major Program and the NSFC Basic Research Project for Young Students. He was awarded the Young Elite Scientist Sponsorship Program (PhD Candidate) from CAST, the Qiushi Rising Star Program from Zhejiang University, and the Zhilun Xu Excellent Student of Mechanics Award from CSTAM. He serves as a reviewer for journals such as *J. Mech. Phys. Solids*. He has delivered invited talks at international conferences, including ICCES 2025 and 2026.
+<br>
+I would like to express my sincere gratitude to the following collaborators for their generous and invaluable assistance: <br>
+Weiqiu Chen (ZJU); C.W. Lim (CityUHK); Michel Destrade (NUI Galway); Gangfeng Wang (XJTU); Rongqiao Xu (ZJU); Yangkun Du (ZJU); Yafei Wang; Tao Yang; Yixin Zhou ...
 
 # Contact
 * **Address:** <br>
