@@ -29,26 +29,26 @@ Alternate: lzcchenzju [at] gmail.com
 # News
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
   这里是很长的内容……
-  第一段……
-  第二段……
-  3
-  4
-  44
-  4
-  4
-  4
-  4
-  4
-  4
-
-  4
-  4
-  4
-  4
-  4
-  4
-  4
-  4
-  4
+  第一段……<br>
+  第二段……<br>
+  3<br>
+  4<br>
+  44<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
+  4<br>
   
 </div>
