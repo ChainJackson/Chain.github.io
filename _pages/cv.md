@@ -33,21 +33,24 @@ redirect_from:
 3.	**<u>L.Z.C. Chen</u>**, C.W. Lim, and W.Q. Chen. Indentation response of a finite-sized three-dimensional layered cylinder. ***International Journal of Solids and Structures***, vol. 325, 113695, 2025. doi:[10.1016/j.ijsolstr.2025.113695](https://doi.org/10.1016/j.ijsolstr.2025.113695) **<font color="#00008B">[Symplectic contact analysis]</font>**
 4.	**<u>L.Z.C. Chen</u>** and W.Q. Chen. Symplectic contact analysis of a finite-sized horizontally graded magneto-electro-elastic plane. ***Proceedings of the Royal Society A***, vol. 481, no. 2306, 2025. doi:[10.1098/rspa.2024.0591](https://doi.org/10.1098/rspa.2024.0591) **<font color="#00008B">[Symplectic contact analysis]</font>**
 
+[Please refer to Google Scholar for more information](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=RZeB-dYAAAAJ)
+
 
 # Invited Contributions
 1.	**<u>L.Z.C. Chen</u>** and W.Q. Chen. Mathematical Formulation of Linear Elastic Fracture Mechanics. In: **Handbook of Fracture Mechanics**, edited by W. Yang, H.J. Gao, and X.Q. Feng. (pp. XXX-XXX), Singapore: Springer, 2026. **<font color="#8B0000">(invited chapter)</font>**
 
-[Please refer to Google Scholar for more information](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=RZeB-dYAAAAJ)
 
 # Academic Services
 * **Reviewers for Scientific Journals:** Journal of the Mechanics and Physics of Solids; Journal of Sound and Vibration; International Journal of Mechanical Sciences; Physics of Fluids; Scientific Reports; Acta Mechanica Solida Sinica
 * **Conference Services:**
   * Session Chair of Symposium 4 of ICCES2026
 
+
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, Participant, ¥ 200,000
 2. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 **<font color="#8B0000">(国家自然科学基金青年学生基础研究项目 博士研究生)</font>**
 3. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, Participant, ¥ 15,000,000 **<font color="#8B0000">(国家自然科学基金重大项目)</font>**
+
 
 # Media Coverage
 * Exclusive: From attempt to passion: CHEN Lizichen’s journey of scientific research at Zhejiang University <br>
