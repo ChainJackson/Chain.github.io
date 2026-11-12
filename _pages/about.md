@@ -17,7 +17,7 @@ Department of Engineering Mechanics, [Zhejiang University](https://www.zju.edu.c
 * **Email:** <br>
 Primary: lzcchen [at] zju.edu.cn <br>
 Alternate: lzcchenzju [at] gmail.com <br>
-<br> **I warmly welcome researchers to collaborate and exchange ideas!**
+<br> **Researchers are welcome to exchange ideas and collaborate!**
 
 # Research
 **Tactile Perception and Surface/Interface Intelligence (接触感知与表界面智能)**:
