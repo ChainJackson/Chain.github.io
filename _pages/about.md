@@ -27,9 +27,8 @@ Alternate: lzcchenzju [at] gmail.com
 * Tactile perception for robots (机器触觉感知)
 
 # Collaborators
-I have developed in-depth collaborations with Prof. Weiqiu Chen, Prof. C.W. Lim, Prof. [Michel Destrade](https://scholar.google.com/citations?user=EQAvBLgAAAAJ&hl=en), Prof. [Gangfeng Wang](https://scholar.google.com/citations?user=MB5AuWAAAAAJ&hl=en), Prof. [Rongqiao Xu](https://www.researchgate.net/profile/Rongqiao-Xu), and my colleagues Yangkun Du, Yafei Wang, Zhanfeng Li, Tao Yang, Yixin Zhou, and Zonghao Li, among others. <br>
+Prof. Weiqiu Chen, Prof. C.W. Lim, Prof. [Michel Destrade](https://scholar.google.com/citations?user=EQAvBLgAAAAJ&hl=en), Prof. [Gangfeng Wang](https://scholar.google.com/citations?user=MB5AuWAAAAAJ&hl=en), Prof. [Rongqiao Xu](https://www.researchgate.net/profile/Rongqiao-Xu), and my colleagues Yangkun Du, Yafei Wang, Renwei Mao, Zhanfeng Li, Zonghao Li, Tao Yang, and Yixin Zhou, among others. <br>
 **I warmly welcome researchers to collaborate and exchange ideas!** <br>
-目前与陈伟球教授、C.W. Lim教授、Michel Destrade教授、王刚锋教授、徐荣桥教授、杜洋坤师兄、王亚飞师兄、李展锋师兄、杨涛师兄、周怡鑫师兄、李宗豪师兄等展开深入合作<br>
 **欢迎各位研究者合作交流！** 
 
 # News
