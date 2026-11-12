@@ -28,8 +28,7 @@ Alternate: lzcchenzju [at] gmail.com
 
 # Collaborators
 Prof. Weiqiu Chen, Prof. C.W. Lim, Prof. [Michel Destrade](https://scholar.google.com/citations?user=EQAvBLgAAAAJ&hl=en), Prof. [Gangfeng Wang](https://scholar.google.com/citations?user=MB5AuWAAAAAJ&hl=en), Prof. [Rongqiao Xu](https://www.researchgate.net/profile/Rongqiao-Xu), and my colleagues Yangkun Du, Yafei Wang, Renwei Mao, Zhanfeng Li, Zonghao Li, Tao Yang, and Yixin Zhou, among others. <br>
-**I warmly welcome researchers to collaborate and exchange ideas!** <br>
-**欢迎各位研究者合作交流！** 
+**I warmly welcome researchers to collaborate and exchange ideas! 欢迎各位研究者合作交流！** 
 
 # News
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
