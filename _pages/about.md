@@ -30,7 +30,7 @@ Alternate: lzcchenzju [at] gmail.com
 I have developed in-depth collaborations with Prof. Weiqiu Chen, Prof. C.W. Lim, Prof. [Michel Destrade](https://scholar.google.com/citations?user=EQAvBLgAAAAJ&hl=en), Prof. [Gangfeng Wang](https://scholar.google.com/citations?user=MB5AuWAAAAAJ&hl=en), Prof. [Rongqiao Xu](https://www.researchgate.net/profile/Rongqiao-Xu), and my colleagues Yangkun Du, Yafei Wang, Zhanfeng Li, Tao Yang, Yixin Zhou, and Zonghao Li, among others. <br>
 **I warmly welcome researchers to collaborate and exchange ideas!** <br>
 目前与陈伟球教授、C.W. Lim教授、Michel Destrade教授、王刚锋教授、徐荣桥教授、杜洋坤师兄、王亚飞师兄、李展锋师兄、杨涛师兄、周怡鑫师兄、李宗豪师兄等展开深入合作<br>
-**欢迎各位老师、研究生等合作交流！** 
+**欢迎各位研究者合作交流！** 
 
 # News
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
