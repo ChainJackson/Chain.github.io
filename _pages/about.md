@@ -29,7 +29,7 @@ Alternate: lzcchenzju [at] gmail.com <br>
 
 # News
 <div style="max-height: 200px; overflow-y: auto; border: 1px solid #ddd; padding: 10px;">
-  [Nov. 2026] 受邀前往北京参加国家自然科学基金委员会“双清论坛” <br>
+  [Nov. 2026] 受邀前往北京参加国家自然科学基金委员会第673期“双清论坛(青年)” <br>
   [Aug. 2026] 在ICCES 2026担任Session Chair，并作邀请报告 <br>
   [Mar. 2026] 在国家自然科学基金重大项目年度学术交流研讨会汇报课题进展 <br>
   [Dec. 2025] 获得<b>国家自然科学基金青年学生基础研究项目(博士研究生)</b>资助 <br>
