@@ -21,9 +21,7 @@ Alternate: lzcchenzju [at] gmail.com <br>
 
 # Research
 **Tactile Perception and Surface/Interface Intelligence (接触感知与表界面智能)**:
-* Symplectic contact analysis (接触力学辛形式)
-* Asymptotic contact analysis (接触力学渐近分析)
-* Inverse problems in contact mechanics (接触力学反问题)
+* Contact mechanics (接触力学)
 * Mechanics of puncture and fracture (穿刺与断裂力学)
 * Tactile perception for robots (机器触觉感知)
 
