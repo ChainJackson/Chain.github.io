@@ -20,7 +20,7 @@ redirect_from:
 
 # Honors and Awards
 * Young Elite Scientist Sponsorship Program, *China Association for Science and Technology*, 2025 **<font color="#8B0000">(中国科协青年科技人才培育工程博士生专项计划)</font>**
-* Qiushi Rising Star Program, *Zhejiang University*, 2025
+* Qiushi Rising Star Program, *Zhejiang University*, 2025 **<font color="#8B0000">(浙江大学求是新星培养计划)</font>**
 * Zhilun Xu Excellent Student of Mechanics, *Chinese Society of Theoretical and Applied Mechanics*, 2024
 * National Scholarship, *Ministry of Education of the People's Republic of China*, 2026 & 2025 & 2023
 * iGEM Best Model Award, *iGEM Executive Judging Committee*, 2023
