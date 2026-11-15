@@ -19,7 +19,7 @@ redirect_from:
 --->
 
 # Honors and Awards
-* Young Elite Scientist Sponsorship Program (PhD Candidate), *China Association for Science and Technology*, 2025
+* Young Elite Scientist Sponsorship Program, *China Association for Science and Technology*, 2025 **<font color="#8B0000">(中国科协青年科技人才培育工程博士生专项计划)</font>**
 * Qiushi Rising Star Program, *Zhejiang University*, 2025
 * Zhilun Xu Excellent Student of Mechanics, *Chinese Society of Theoretical and Applied Mechanics*, 2024
 * National Scholarship, *Ministry of Education of the People's Republic of China*, 2026 & 2025 & 2023
@@ -48,7 +48,7 @@ redirect_from:
 
 # Research Projects
 1. Fracture analysis of viscoelastic flexible piezoelectric materials, supported by *the Open Foundation of the State Key Laboratory of Fluid Power and Mechatronic Systems*, Jun. 2026 -- Apr.2028, Participant, ¥ 200,000
-2. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 **<font color="#8B0000">(国家自然科学基金青年学生基础研究项目 博士研究生)</font>**
+2. Fundamental mechanical problems in nanoimprint under multi-field coupling, supported by *the National Natural Science Foundation of China* (No. 125B2042), Jan. 2026 -- Dec. 2027, **Principal Investigator**, ¥ 300,000 **<font color="#8B0000">(国家自然科学基金青年学生基础研究项目)</font>**
 3. Mechanical theories and experimental methods for high-throughput characterization of long-term service performance of materials, supported by *the National Natural Science Foundation of China* (No. 12192210), Jan. 2022 -- Dec. 2026, Participant, ¥ 15,000,000 **<font color="#8B0000">(国家自然科学基金重大项目)</font>**
 
 
